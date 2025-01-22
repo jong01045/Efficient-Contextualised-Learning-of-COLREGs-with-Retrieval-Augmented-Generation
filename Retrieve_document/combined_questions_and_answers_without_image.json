@@ -1,0 +1,1630 @@
+{
+    "ANR0000000001": {
+        "question": "What vessels do COLREG rules 1983 apply to ?\n\na) To all vessels navigating in international waters.\nb) To all vessels navigating in roadsteads, straits and open seas.\n\nc) To all vessels upon the high seas and in all waters connected therewith.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000002": {
+        "question": "What does the word \"vessel\" mean, according to the COLREG rules ?\n\na) Any watercraft capable of floating on water without propelling machinery.\nb) Any watercraft including non-displacement craft and seaplanes used or capable of being used as a means of\n transportation on water.\nc) Any floating object fitted with propelling machinery.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000003": {
+        "question": "What does the word \"seaplane\" mean ?\n\na) Any aircraft designed to carry out hydrotechnical and/or hydrometeorological work.\nb) Any aircraft designed to manoeuvre on the water.\n\nc) Any aircraft being on the water for various reasons.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000004": {
+        "question": "What vessel may be considered as \"vessel restricted in her ability to\n manoeuvre\" ?\n\na) A vessel engaged in replenishment or transferring persons, provisions or carge while underway.\nb) A vessel lying to, on stormy weather.\n\nc) A vessel with damages to the steering gear.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000005": {
+        "question": "What vessel may be considered as \"vessel restricted in her ability to\n manoeuvre\" ?\n\na) A vessel engaged in towing, having the towing line less than 50 M in lenght.\nb) A pushing tug boat, underway, at night.\n\nc) A vessel engaged in towing operation such as severely restricts the towing vessel and her tow in their ability to\n deviate from their course.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000006": {
+        "question": "To what vessel is the term \"vessel restricted in her ability to manoeuvre\"\n limited to ?\n\na) The term \"vessel restricted in her ability to manoeuvre\" will not be limited to the vessels quoted in the rules.\nb) It is limited to te vessels quoted in the rules.\n\nc) It is limited to the damaged vessels which are unable to keep out of the way of another vessel.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000055": {
+        "question": "What lights shall a vessel engaged on pilotage duty exhibit, when she is at\n anchor ?\n\na) The lights of a vessel at anchor and 2 all-round lights in a vertical line, the upper being white, the lower red.\nb) The lights of a vessel at anchor.\n\nc) The lights of a vessel at anchor and a white alternating light at the masthead.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000056": {
+        "question": "What lights shall a vessel aground exhibit ?\n\na) The lights of a vessel at anchor and 2 all-round red lights in a vertical line.\nb) 2 all-round red lights in a vertical line.\n\nc) 3 all-round red lights in a vertical line and the lights of a vessel at anchor.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000057": {
+        "question": "When shall vessels of less than 7 metres in length not be required to\n exhibit the lights of a vessel at anchor ?\n\na) When at anchor, but not in a narrow channel, fairway or anchorage, or where other vessels normally navigate.\nb) When at anchor in a basin.\n\nc) When at anchor in the roadstead.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000058": {
+        "question": "When shall vessels of less than 7 metres in length not be required to exibit\n the shapes of a vessel at anchor ?\n\na) When at anchor in a basin.\nb) When at anchor but not in a narrow channel, fairway or anchorage, or where other vessel normally navigate.\n\nc) When at anchor in the roadstead.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000059": {
+        "question": "What vessels aground shall not be required to exhibit the lights and shapes\n of a vessel aground ?\n\na) Vessels of less than 7 metres in length.\nb) Vessels of less than 15 metres in length.\n\nc) Vessels of less than 12 metres in length.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000060": {
+        "question": "What equipment for sound signals shall a vessel of 12-100 metres in length\n be provid with ?\n\na) One whistle at midship.\nb) A bell in the fore part or at the stern of the vessel.\n\nc) A whistle and a bell.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000061": {
+        "question": "When shall the sound signals for manoeuvring be given ?\n\na) In any circumstances.\nb) When vessels are in sight of one another.\n\nc) In restricted vibility.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000062": {
+        "question": "What significance shall the light signal \"2 flashes\" have, if associated with\n the sound signal ?\n\na) I am altering my course to starboard.\nb) I am manoeuvring with difficulty to port.\n\nc) I am altering my course to port.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000063": {
+        "question": "At what interval shall successive light signals be given ?\n\na) At not less that 10 seconds.\nb) After at least one minute.\n\nc) Whenever it is necessary.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000064": {
+        "question": "What characteristics shall the light supplementing the sound signals have ?\n\na) An all-round red light.\nb) An all-round white light.\n\nc) Green to starboard, red to port and white for astern propulsion.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000065": {
+        "question": "When in sight of one another in a narrow channel or fairway, what signal\n shall the vessel intending to overtake another on starboard side, give ?\n\na) 2 prolonged blasts followed by one short blast.\nb) One short blast.\n\nc) One prolonged blast followed by one short blast.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000066": {
+        "question": "What signal shall a vessel give, when nearing a bend or an area of a\n channel or fairway where other vessels may be obscured by an intervening\n obstruction ?\n\na) One short blast \"I am altering my course to starboard\".\nb) One prolonged blast.\n\nc) Successive short blasts to attract attention.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000067": {
+        "question": "When shall sound signals be given, in conditions of restricted visibility ?\n\na) In or near an area of restricted visibility.\nb) In an area of restricted visibility.\n\nc) Only on foggy weather.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000068": {
+        "question": "What sound signals shall a sailing vessel give, in conditions of restricted\n visibility ?\n\na) One prolonged blast by hooter at intervals of one minute.\nb) 4 short blasts at intervals of 2 minutes.\n\nc) One prolonged blast followed by 2 short blasts at intervals of not more than 2 minutes.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000069": {
+        "question": "What sound signals shall a vessel restricted in her ability to manoeuvre\n give, when carrying out her work, at anchor, in conditions of restricted\n visibility ?\n\na) Rapid blasts on the bell for 5 seconds preceded and followed by one prolonged blast at intervals of 2 minutes.\nb) Rapid blasts on the bell for 5 seconds to one minute.\n\nc) One prolonged blast followed by 2 short blasts at intervals of not more than 2 minutes.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000070": {
+        "question": "What sound signals shall a vessel give when engaged in towing or pushing\n another, in conditions of restricted visibility ?\n\na) One prolonged blast followed by 2 short blasts at intervals of not more than 2 minutes.\nb) 4 short blasts preceded and followed by one prolonged blast at intervals of 2 minutes.\n\nc) One prolonged blast and 5 short stay blasts at intervals of one minute.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000071": {
+        "question": "What sound signals shall a vessel towed give, if manned, in conditions of\n restricted visibility ?\n\na) One prolonged blast and 2 short blasts at intervals of 2 minutes.\nb) One prolonged blast and 3 short blasts at intervals of not more than 2 minutes.\n\nc) 2 prolonged blasts followed by 2 short blasts at intervals of 2 minutes.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000072": {
+        "question": "What sound signals shall a pushing vessel and a vessel being pushed\n ahead give, in conditions of restricted visibility, when twey are rigidly\n connected in a composite unit underway ?\n\na) One prolonged blast at intervals of not more than 2 minutes.\nb) One prolonged blast followed by 2 short blasts at intervals of 2 minutes.\n\nc) One prolonged blast and 4 short warning blasts at intervals of one minute.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000073": {
+        "question": "What sound signals shall a vessel aground give in conditions of restricted\n visibility ?\n\na) The signals given by a vessel at anchor and, in addition, immediately before and after the rapid ringing of the bell\n she shall give 3 separate and distinct strokes on the bell. In addition, she may sound an appropriate whistle signal.\nb) Signals on the whistle to attract attention and rapid ringing of the bell at intervals of 2 minutes.\n\nc) One short blast, one prolonged and one short blast on the whistle and ringing the bell rapidly at intervals of one\n minute.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000074": {
+        "question": "What sonud signals shall a pilot vessel at anchor give, when engaged on\n pilotage duty in conditions of restricted visibility ?\n\na) Rapid strokes on the gong for 5 seconds at intervals of not more than one minute.\nb) One prolonged blast followed by 4 short blasts at intervals of one minute.\n\nc) The signals of a vessel at anchor and in addition 4 short identity blasts.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000075": {
+        "question": "Which is the alarm signal in radiotelegraphy ?\n\na) 2 long dashes for 10 seconds, separated by an interval of 2 seconds.\nb) 12 long dashes for 14 seconds, separated by an interval of one second.\n\nc) 3 long dashes for 4 seconds, separated by an interval of one second.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000076": {
+        "question": "You are in charge of a 250-meter freight vessel constrained by her draft\n proceeding down a narrow channel. There is a vessel engaged in fishing\n on your starboard bow half a mile away. According to Rule 9, which\na) You are not to impede the fishing vessel\nb) If you are in doubt as to the fishing vessel`s intentions you may sound at least five short and rapid blasts on the\n whistle.\nc) You are to slow to bare steerageway until clear of the fishing vessel\nd) ----- ----- -----\n\n",
+        "answer": "b"
+    },
+    "ANR0000000077": {
+        "question": "Which statement is true concerning a vessel constrained by her draft?\n\na) She must be a power-driven vessel\nb) She is not under command\n\nc) She may be a vessel being towed\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000078": {
+        "question": "Which statement is TRUE, according to the Rules?\n\na) A vessel not under command shall keep out of the way of a vessel restricted in her ability to maneuver\nb) A vessel not under command shall avoid impeding the safe passage of a vessel constrained by her draft\n\nc) A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in\n her ability to maneuver\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000079": {
+        "question": "Which statement is TRUE, according to the Rules?\n\na) A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in\n her ability to maneuver\nb) A vessel not under command shall keep out of the way of a vessel restricted in her ability to maneuver\n\nc) A vessel engaged in fishing shall keep out of the way of a sailing vessel\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000080": {
+        "question": "Which statement in TRUE, according to the Rules?\n\na) A vessel constrained by her draft shall keep out of the way of a vessel engaged in fishing\nb) A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in\n her ability to maneuver\nc) A vessel not under command shall avoid impeding the safe passage of a vessel constrained by her draft\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000081": {
+        "question": "Which statement is TRUE, according to the Rules?\n\na) A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in\n her ability to maneuver\nb) A vessel not under command shall keep out of the way of a vessel restricted in her ability to maneuver\n\nc) A fishing vessel while underway has the right-of-way over a vessel constrained by her draft\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000082": {
+        "question": "A signal of intent must be sounded in international waters by\n _____________\n\na) a vessel meeting another head-on\nb) a vessel overtaking another in a narrow channel\n\nc) a vessel crossing the course of another\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000083": {
+        "question": "Which vessel shall avoid impeding the safe passage of a vessel\n constrained by her draft?\n\na) A vessel not under command\nb) A sailing vessel\n\nc) A vessel restricted in her ability to maneuver\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000084": {
+        "question": "Of the vessel listed, which must keep out of the way of all the others?\n\na) A vessel constrained by her draft\nb) A vessel restricted in her ability to maneuver\n\nc) A vessel pushing a barge\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000085": {
+        "question": "Your vessel is crossing a narrow channel. A vessel to port is within the\n channel and crossing your course. She is showing a black cylinder. You\n should _______________\na) hold your course and speed\nb) not impede the other vessel\n\nc) exchange passing signals\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000086": {
+        "question": " Your vessel is constrained by her draft and operating in a narrow channel.\n Another vessel is crossing your course from starboard to port. You are in\n doubt as to her intentions. According to Rule 9 you _________________\na) should sound one short blast to indicate that you are holding course and speed\nb) must sound one prolonged blast\n\nc) may sound the danger signal\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000087": {
+        "question": " Which vessel is NOT restricted in her ability to maneuver?\n\na) A vessel servicing an aid to navigation\nb) A vessel constrained by her draft\n\nc) A towing vessel with tow, unable to deviate from its course\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000088": {
+        "question": "Which statement is TRUE concerning a vessel constrained by her\n draft?\n\na) She is hampered because of her work\nb) She is unable to maneuver due to some exceptional circumstance\n\nc) She must be a power-driven vessel\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000089": {
+        "question": "Which statement applies to a vessel constrained by her draft?\n\na) The term only applies to vessels in narrow channels\nb) She is severely restricted in her ability to change her course because of her draft in relation to the available depth\n and width of navigable water\nc) She is designated as a  vessel restricted in her ability to maneuver\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000091": {
+        "question": "\"Vessel\" \"A\" is overtaking vessel\" \"B\"on open waters and will pass without\n changing course. Vessel \"A\" should_____________.\n\na) sound two prolonged blasts followed by two short blasts\nb) sound the danger signal\n\nc) not sound any whistle signal\nd) ----- ----- -----\n\n",
+        "answer": "c"
+    },
+    "ANR0000000092": {
+        "question": "You are underway in a norrow channel, and you are being overtaken by a\n vessel astern. After the overtaking vessel sounds the proper signal\n indicating his intention to pass your vessel on your starboard side, you\na) two prolonged followed by two short blasts\nb) one prolonged, one short, one prolonged, and one short blast\n\nc) one short blast\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000093": {
+        "question": "You intend to overtake a vessel in a narrow channel, and you intend to\n pass along the vessel`s port side. How should you signal your intention?\n\na) Two short blasts followed by two prolonged blast\nb) Two prolonged followed by two short blasts\n\nc) Two prolonged blasts only\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000094": {
+        "question": "\"Which vessel is NOT regarded as being\" \"restricted in her ability to\n maneuver?\n\n\"\n\na) A vessel servicing an aid to navigation\nb) A vessel engaged in dredging\n\nc) A vessel constrained by her draft\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000095": {
+        "question": "Which vessel shall avoid impeding the safe passage of a vessel\n constrained by her draft?\na) A vessel not under command\nb) A fishing vessel\n\nc) A vessel restricted in her ability to maneuver\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000097": {
+        "question": "You are operating a vessel in a narrow channel.Your vessel must stay\n within the channel to be navigated safely. Another vessel is crossing your\n course from starboard to port,and you are in doubt as to his intentions.\na) may sound the danger signal\nb) must sound one prolonged and short blasts\n\nc) should sound one short blast to indicate that you are holding course and speed\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000098": {
+        "question": " Which vessel is to keep out of the way of the others?\n\na) A vessel constrained by her draft\nb) A vessel engaged in underwater operations\n\nc) A vessel engaged in trawling\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000099": {
+        "question": "\"Which statement applies to a vessel\"\"constrained by her draft?\n\n\"\n\na) She is severely restricted in her ability to change her course because of her draft in relation to the available depth of\n water.\nb) The term applies only to vessels in marked channels.\n\nc) \"She is designated as a \"vessel restricted in her ability to maneuver\".\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000100": {
+        "question": " Which vessel would NOT sound a fog signal of one prolonged and two\n short blasts?\na) A vessel not under command\nb) A vessel constrained by her draft\n\nc) A vessel being towed\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000101": {
+        "question": "Of the vessels listed, which mustkeep out of the way of all the others?\n\na) A vessel constrained by her draft\nb) A vessel restricted in her ability to maneuver\n\nc) A vessel on pilotage duty\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000103": {
+        "question": "In a crossing situation on international waters, a short blast by the give-way\n vessel indicates that the vessel _____________.\n\na) is holding course and speed\nb) is turning to starboard\n\nc) intends to pass port to port\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000104": {
+        "question": " Two prolonged blasts followed by one short blast on the whistle is a signal\n which could be sounded by a _____________.\n\na) fishing vessel\nb) vessel anchored\n\nc) vessel overtaking another in a narrow channel\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000105": {
+        "question": "You are in sight of another vessel in a crossing situation, and the other\n vessel sounds one short blast. You are going to hold course and speed.\n You should _____________.\na) answer with one short blast\nb) answer with two short blasts\n\nc) sound no whistle signal\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000106": {
+        "question": "The light which may be used with a vessel`s whistle is to be\n _____________.\n\na) used when the whistle is broken\nb) used prior to sounding the whistle\n\nc) a white light\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000107": {
+        "question": " A fishing vessel is approaching a vessel not under command. Which\n statement is TRUE?\n\na) the fishing vessel must keep clear of the vessel not under command.\nb) If the vessel not under command is a power-driven vessel, she must keep clear of the fishing vessel.\n\nc) They must exchange whistle signals.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000109": {
+        "question": "How do COLREG rules interfere with the lights and signals for ships of war,\n vessels proceeding in convoy and fishing vessels engaged in fishing as a\n fleet ?\n\na) The Government of any state may issue special rules with respect to the number of station lights or signal lights but\n these shall, so far as possible, be such that they cannot be mistaken for the lights or signals authorized under\nb) The Government of any state may authorize any lights or signals.\n\nc) COLREG rules shall be complied with as closely as possible.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000110": {
+        "question": "When is it permitted to make a departure from the COLREG rules ?\n\na) In national waters, roasteads and in all waters connected therewith navigable by seagoing vessels.\nb) When there is a danger of navigation, risk of collision as well as in all special circumstances.\n\nc) It is not permitted to make any departure from the COLREG rules.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000111": {
+        "question": "What does the term \"sailing vesel\" mean ?\n\na) Any vessel using wind power as means of propulsion.\nb) Any power-driven vessel using sails,too.\n\nc) Any vessel under sail provided that propelling machinery, if fitted, is not being used.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000112": {
+        "question": "What does the term \"vessel restricted in her ability to manoeuvre\" mean ?\n\na) A vessel which from the nature of her work is restricted in her ability to manoeuvre as required by the rules and is\n therefore unable to keep out of the way of another vessel.\nb) A vessel with minor damages to the gear and/or the engine, being remedied.\n\nc) A vessel unable to deviate from her course due to some navigation obstructions.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000113": {
+        "question": "What vessel may be considered as \"vessel restricted in her ability to\n manoeuvre\" ?\n\na) A vessel with damaged steering gear.\nb) A vessel engaged in laying, picking up or servicing a navigation mark.\n\nc) A deep draught vessel navigating in the straits.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000114": {
+        "question": "What vessel may be considered as \"vessel restricted in her ability to\n manoeuvre\" ?\n\na) A vessel engaged in laying or picking up a submarine cable or pipeline.\nb) A sailing vessel having the wind dead ahead.\n\nc) A vessel having damages to the propeller system.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000007": {
+        "question": "What does the term \"vessel constrained by her draught\" mean ?\n\na) A vessel which because of her draught and the existance of navigation obstructions in unable to deviate from her\n course.\nb) A deep draught vesselbeing towed.\n\nc) A power-driven vessel which because of her draght in relation to the avilable depth of water is severely restricted in\n her ability to deviate from her course.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000008": {
+        "question": "What does the term \"restricted visibility\" mean ?\n\na) Any condition in which visibility is reduced under 1,5 m.\nb) The condition in which the visibility is restricted by fog, rain or snow.\n\nc) Any condition in which visibility is restricted by fog, mist, falling snow, heavy rainstorms, sandstorms or any other\n similar causes.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000009": {
+        "question": "Which are the factors taken into accouunt in determinating the \"safe\n speed\" ?\n\na) The vessel's length, nautical qualities of the vessel, the engine's power and the visibility.\nb) The crew's training, the navigation conditions and visibility.\n\nc) The visibility, the traffic density, the manoeuvrability of the vessel at night, the presence of background light, the\n state of wind and sea, the vessel's draught.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000010": {
+        "question": "How shall an action to avoid collision be taken ?\n\na) In ample time, with a succession of small alterations of course in order not to deviate from the vessel's course.\nb) Positively, in ample time and with due regard to the observance of good seamanship.\n\nc) Positively, with speed alterations to avoid risk of collision.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000011": {
+        "question": "What distance between vessels shall the avoiding action ensure ?\n\na) A distance of not less than 6 cables shall be ensured.\nb) It shall be such as to result in passing at a safe distance.\n\nc) It shall be such as to ensure that the vessel passes at more than 2 miles distance.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000012": {
+        "question": "Till when shall the effectiveness of an avoiding action be checked ?\n\na) Untill the vessels shall be abeam one to each other.\nb) Untill the other vessel will be at an angle of more than 45 degrees by starboard / portside.\n\nc) Untill the other vessel is finally past and clear.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000115": {
+        "question": "What vessel may be considered as \"vessel restricted in her ability to\n manoeuvre\" ?\n\na) A vessel engaged in taking / dropping the pilot.\nb) A vessel with the engines stopped.\n\nc) A vessel engaged in mine clearance operations.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000116": {
+        "question": "What does the term \"vessel's length\" mean ?\n\na) Vessel's length between perpendiculars.\nb) Vessel's length overall.\n\nc) Vessel's length measured between the draught line forward and the draught line aft.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000117": {
+        "question": "When are 2 vessels deemed to be in sight of one another ?\n\n a) When they are watching each other, visually.\nb) When only one can be observed visually from the other.\n\nc) When the vessels are not beyond radar range.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000118": {
+        "question": "When shall a vessel proceed at \"safe speed\" ?\n\na) Under conditions of restricted visibility.\nb) At all times.\n\nc) In straits, channels and difficult conditions.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000119": {
+        "question": "What means shall a vessel use to determine if risk of collision exists ?\n\na) Every vessel shall use all available means appropriate to the prevailing circumstances aand conditions to determine\n if risk of collision exists.\nb) Every vessel shall use all visual means to determine if risk of collision exists.\n\nc) Every vessel shall use the radar to determine if risk of collision exists.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000120": {
+        "question": "How shall radar equipment be used if fitted aboard ?\n\na) The radar equipment shall be used when the visibility is restricted, using adequate range scales.\nb) The radar equipment shall be used to avoid risk of collision.\n\nc) Proper use shall be made of radar equipment, including long-range scanning to obtain early warning of risk of\n collision and radar plotting or equivalent systematic observation of detected objects.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000121": {
+        "question": "When shall it be deemed that a risk of collision exists ?\n\na) When the vessels are navigating on opposite courses.\nb) When the compass bearing of an approaching vessel does not appreciably change.\n\nc) When the approaching speed between the two vessels is very high.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000122": {
+        "question": "If alteration of course alone is sufficient to avoid collision, how shall it be\n done ?\n\na) The manoeuvre shall be made in good time, be substantial and it does not result another close-quarts situation.\nb) Large alterations of course shall be made, sufficient to avoid collision.\n\nc) An alternation of course, sufficient to avoid any risk of collision.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000123": {
+        "question": "How shall a vessel navigate within a traffic separation scheme ?\n\na) The vessel shall navigate as close as possible to the traffic separation schemes.\nb) The vessel shall navigate in the traffic lane in the indicated direction.\n\nc) The vessel shall navigate in the appropriate traffic lane in the general direction of traffic flow for that lane and, so far\n as practicable, keep clear of a traffic separation line or separation zone.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000124": {
+        "question": "When shall a vessel enter a separation zone or cross a separation line ?\n\na) When the hydrometeorological conditions make it difficult to navigate in the general direction of traffic flow.\nb) In cases of emergency, to avoid immediate danger or to engage in fishing within a separation zone.\n\nc) The separation zone shall not be crossed in any circumstances.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000125": {
+        "question": "How shall a vessel navigate in areas near the terminations of traffic\n separation schemes?\n\na) The vessel shall navigate in the general direction of traffic flow.\nb) The intentions of altering course will be communicated by sound and visual signals.\n\nc) The vessel shall do so with particular caution.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000127": {
+        "question": "When shall the vessel be deemed to have reciprocal courses ?\n\na) When the vessel sees the other ahead and by night she could see the masthead lights of the other in a line and/or\n both sidelights and, by day, she observes the corresponding aspect of the other vessel.\nb) When by night she could see the masthead lights nearly in a line and one of the sidelights and by day the masts\n can be seen under a small angle.\nc) When the masthead lights and the sternlight can be seen.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000128": {
+        "question": "How shall 2 sailing vessels manoeuvre, when they are approaching one\n another so as to involve risk of collision and both have the wind on the\n same side\na) The vessel which sees the other on port side shall keep out of the way of the other.\nb) The vessel which is to windward shall keep out of the way of the vessel which is to leeward.\n\nc) The vessel which sees the other on starboard side shall keep out of the way of the other.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000129": {
+        "question": "Which is the action by stand-on vessel ?\n\na) The vessel shall keep her course and speed.\nb) The vessel shall alter her course only in order to avoid a dangerous situation.\n\nc) The vessel shall reduce speed or even stop not to engender dangerous situations.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000130": {
+        "question": "Which vessel's way shall a power-driven vessel keep out of ?\n\na) Pilot vessels underway, engaged in pilotage operations.\nb) Vessels restricted in their ability to manoeuvre.\n\nc) Specialized vessels carrying containers and RO/RO vessels.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000131": {
+        "question": "Which vessel's way shall a power-driven vessel underway keep out of ?\n\na) Fish-carriers, underway.\nb) Research vessels, underway.\n\nc) Vessels engaged in fishing.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000132": {
+        "question": "Which vessel's way shall a power-driven vessel underway keep out of ?\n\na) Sailing vessels.\nb) Sailing vessels navigating only by use of engines.\n\nc) Sailing vessels, having a black cone apex downwards.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000133": {
+        "question": "Which vessel's way shall, so far as possible, a vessel engaged in fishing,\n when underway, keep out of ?\n\na) Fish-carriers underway to the anchorage.\nb) Vessels not under command.\n\nc) Pilot-vessels underay.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000134": {
+        "question": "What safety precautions shall a seaplane on the water take ?\n\na) She shall keep well clear of all vessels and avoid impeding their navigation.\nb) She shall give a warning signal in order to be avoided.\n\nc) She shall consider herself as any other privileged vessel and follow her course and speed.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000135": {
+        "question": "At what speed shall a vessel navigate in conditions of restricted visibility ?\n\na) At slow speed and look-out forward.\nb) At economic speed but with radar working and a proper look-out in order to avoid risk of collision.\n\nc) At a safe speed adapted to the prevailing circumstances and conditions of restricted visibility.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000136": {
+        "question": "A vessel which detects by radar alone the presence of another vessel shall\n determine if a close-quarters situation is developing and/or risk of collision\n exists. If so, she shall take avoiding actions in ample time; however, if such\na) An alteration of course in the opposite direction of a vessel abeam or abaft the beam.\nb) A 90 degrees alteration of course in the opposite direction of the signal in order to be deemed as being overtaken.\n\nc) An alteration of course towards a vessel or abaft the beam.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000137": {
+        "question": " When shall the lights prescribed by these rules be also exhibited ?\n\na) From sunrise to sunset, restricted visibility and in all other circumstances when it is deemed necessary.\nb) When visibility is under 3 Nm.\n\nc) In straits, in restricted visibility.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000138": {
+        "question": "When shall the rules concerning shapes be complied with ?\n\na) By twilight.\nb) By day.\n\nc) By day or by night when they are lit.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000139": {
+        "question": "What does the term ' masthead light' mean ?\n\na) Any white light placed on the mast of a vessel at a height prescribed by the register standards.\nb) Any white all round light.\n\nc) Any white light placed over the fore and aft centreline of the vessel showing an unbroken light over an arc of the\n horizon of 225 degrees and so fixed as to show the light from right ahead to 22.5 degrees abaft the beam on either\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000140": {
+        "question": "What does the term \"all round light\" mean ?\n\na) A light showing an unbroken light over an arc of the horizon of 360 degrees.\nb) An unbroken light visible from ahead and either side of the vessel.\n\nc) A light showing an unbroken light visible over an arc of the horizon of 180 degrees.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000141": {
+        "question": "What range shall the mastlight be visible at, for vessels less than 12m in\n length ?\n\na) 3 nautical miles.\nb) 2 nautical miles.\n\nc) 1 nautical mile.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000142": {
+        "question": "What range shall the sidelights be visible at, for vessels of 12 metres or\n more in length, but less than 50 metres ?\n\na) 3 nautical miles.\nb) 2 nautical miles.\n\nc) 1.5 nautical miles.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000143": {
+        "question": "What range shall the sternlight be visible at, for vessels between 12 and 50\n metres in length ?\n\na) 3 nautical miles.\nb) 2 nautical miles.\n\nc) 1 nautical mile.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000144": {
+        "question": "What range shall the towing light be visible at, for vessels less than 12\n metres in length ?\n\na) 1 nautical mile.\nb) 3 nautical miles.\n\nc) 2 nautical miles.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000145": {
+        "question": "What range shall the white, red, green or yellow all round light be visible at,\n for vessels of 50 metres or more in length ?\n\na) 3 nautical miles.\nb) 4 nautical miles.\n\nc) 5 nautical miles.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000146": {
+        "question": "What range shall the white, red, green or yellow all round light be visible at,\n for vessels of l2-50 metres in length ?\n\na) 3 nautical miles.\nb) 2 nautical miles.\n\nc) 1 nautical mile.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000147": {
+        "question": "What lights shall an air-cushion vessel exhibit, when operating in non-\n displacement mode ?\n\na) The same lights as a power-driven vessel underway\nb) An all-round flashing yellow light.\n\nc) The same lights as a power-driven vessel underway and an additional all-round flashing yellow light.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000148": {
+        "question": "What lights shall a power-driven vessel of more than 50 metres in length\n exhibit, when towing and the length of the tow is less than 50 metres ?\n\na) Instead of the masthead lights forward and aft, 2 masthead lights in a vertical line, sidelights, a stern light and a\n towing light.\nb) Sidelights, a sternlight and a towing light.\n\nc) 2 masthead lights in a vertical line, sidelights and a towing light.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000149": {
+        "question": "What shape shall a power-driven vessel underway exhibit, when the length\n of the tow exceeds 200 metres ?\n\na) A diamond.\nb) A cone with the apex downwards.\n\nc) 2 cones with apexes together.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000150": {
+        "question": "What lights shall a power-driven vessel exhibit when pushing ahead or\n towing alongside, this not being the case of a composite unit ?\n\na) 2 masthead lights forward in a vertical line, sidelights, a sternlight.\nb) 3 masthead lights in a vertical line, sidelights and a towing light.\n\nc) Sidelights and a towing light.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000151": {
+        "question": "What lights shall a vessel being pushed ahead exhibit, this not being the\n case of a composite unit ?\n\na) She shall exhibit the sidelights at the forward end.\nb) The masthead light and sidelights.\n\nc) The masthead light and a sternlight.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000152": {
+        "question": "What lights shall a vessel being towed alongside exhibit ?\n\na) The masthead lights and a sternlight.\nb) A sternlight and sidelights at the forward end.\n\nc) Sidelights at the forward end.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000153": {
+        "question": "What lights shall an inconspicuous, partly submerged vessel or object less\n than 25 metres in breadth exhibit, when being towed ?\n\na) An all-round white light at the forward end.\nb) An all-round white light at the after end.\n\nc) An all-round white light at the forward end and one at the after end.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000154": {
+        "question": "What shapes shall an inconspicuous, partly submerged object or vessel\n exhibit by day, when being towed and the length of the tow exceeds 200\n metres ?\n\na) A cone apex upwards at the forward end and an additional one at the after end.\nb) 2 black cones, apexes together.\n\nc) A diamond at or near the aftermost extremity and an additional one where it can best be seen and located as far\n forward as practicable.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000155": {
+        "question": "Where shall a sailing vessel underway carry the lantern, when her length is\n less than 20 metres ?\n\na) Anywhere and to be exhibited only if necessary.\nb) At the top of the mast where it can best be seen.\n\nc) At the jack stick.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000156": {
+        "question": "What lights shall a sailing vessel underway exhibit, when her length is less\n than 7 metres ?\n\na) She shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in\n sufficient time to prevent collision.\nb) Sidelights.\n\nc) A white light at the masthead.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000157": {
+        "question": "When shall a vessel engaged in fishing exhibit the prescribed lights and\n shapes ?\n\na) In any circumstance.\nb) While underway and at anchor.\n\nc) When underway.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000158": {
+        "question": "What lights shall a fishing vessel other than trawling exhibit, when making\n way through the water?\n\na) Sidelights, 2 all-round lights in a vertical line, the upper being white and the lower red.\nb) 2 all-round lights in a vertical line, the upper being red and the lower white and a sternlight.\n\nc) Sidelights, a sternlight, 2 all-round lights in a vertical line, the upper being red and the lower white.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000159": {
+        "question": "What lights shall a vessel engaged in fishing, other than trawling exhibit,\n when there is outlying gear extending more than 150 metres horizontally\n and is making way through the water ?\n\na) Sidelights, a sternlight, 2 all-round lights in a vertical line, the upper being red and the lower white, an all-round\n white light in the direction of the gear.\nb) Sidelights, a sternlight, an all-round white light in the direction of the gear.\n\nc) Sidelights, a sterlinght, two lights in a vertical line, the upper white and the lower red.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000160": {
+        "question": "What additional lights shall a trawler engaged in fishing exhibit when\n shooting her nets and fishing in close proximity to other vessel engaged in\n fishing ?\n\na) An all-round red light.\nb) 2 all-round white lights in a vertical line.\n\nc) An all-round green light.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000161": {
+        "question": "What lights shall a vessel not under command exhibit, when making way\n through the water ?\n\na) Two red lights in a vertical line, sidelights and a sternlight.\nb) A red light, sidelights and a sternlight.\n\nc) 2 red lights and a sternlight.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000162": {
+        "question": "Where shall the red lights of the vessels not under command be placed ?\n\na) At the foremasthead.\nb) At the aftermasthead.\n\nc) Where they can best be seen.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000163": {
+        "question": "What lights shall a vessel restricted in her ability to manoeuvre exhibit,\n when making way through the water ?\n\na) Sidelights, a sternlight and 3 lights in a vertical line, the highest and the lowest one being red and the middle one\n white.\nb) 3 lights in a vertical line, the highest and the lowest being red and the middle one white.\n\nc) Sidelights, a sternlight, a masthead light and 3 lights in a vertical line, the lowest and the highest being red and the\n middle one white.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000164": {
+        "question": "What shapes shall a vessel restricted in her ability to manoeuvre exhibit,\n when at anchor ?\n\na) One ball in the fore part and 3 shapes in a vertical line, where they can best be seen, the highest and the lowest of\n these shapes being balls and the middle one a diamond.\nb) One ball in the fore part.\n\nc) 3 shapes in a vertical line, the highest and the lowest being balls and the middle one a diamond.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000165": {
+        "question": "What lights shall a power-driven vessel exhibit, when engaged in towing\n operations and restricted in her ability to deviate from her course ?\n\na) The lights prescribed for power-driven vessels underway, engaged in towing operations.\nb) The lights of a vessel restricted in her ability to manoeuvre engaged in towing operations.\n\nc) The lights prescribed for vessels not under command.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000166": {
+        "question": "What shapes shall a power-driven vessel exhibit, when engaged in towing\n operations and restricted in her ability to deviate from her course ?\n\na) The shapes prescribed for a power-driven vessel engaged in towing operations.\nb) The shapes prescribed for a vessel not under command.\n\nc) The shapes of a vessel restricted in her ability to manoeuvre and the shapes prescribed for vessels engaged in\n towing operatins.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000167": {
+        "question": "What shapes shall a vessel engaged in dredging or underwater operations\n exhibit, when restricted in her ability to manoeuvre and at anchor ?\n\na) Instead of the shapes of a vessel at anchor, the shapes of a vessel restricted in her ability to manoeuvre engaged\n in dredging operations.\nb) A diamond indicating the side on which an obstruction exists and the shapes of vessels at anchor.\n\nc) The shapes of a power-driven vessel at anchor.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000168": {
+        "question": "How shall the balls of vessels engaged in mineclearance operations be\n exhibited ?\n\na) In a vertical line.\nb) One at the foremasthead and 2 at the sternmasthead.\n\nc) One at the foremasthead and one at each end of the fore yard.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000169": {
+        "question": "What lights shall a vessel constrained by her draught exhibit ?\n\na) The lights prescribed for power-driven vessels underway and an additional red light.\nb) The lights prescribed for power-driven vessels underway and 3 additional all-round red lights in a vertical line.\n\nc) The lights of a vessel restricted in her ability to manoeuvre.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000170": {
+        "question": "What lights shall a vessel engaged on pilotage duty exhibit, when\n underway ?\n\na) Sidelights and 2 all-round lights in a vertical line, the upper being white and the lower red.\nb) Sidelights, a sternlight, 2 all-round lights in a vertical line, the upper being white and the lower red.\n\nc) Sidelights, a sternlight and an all-round red quick-flashing light.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000171": {
+        "question": "What lights shall a vessel at anchor exhibit, when her length exceeds 50\n metres ?\n\na) An all-round white light at the fore masthead.\nb) An all-round white light in the fore part.\n\nc) An all-round white light in the fore part and another all-round white light at or near the stern, but at a lower level\n than the light in the fore part.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000172": {
+        "question": "What shapes shall a vessel at anchor exhibit ?\n\na) One ball in the fore part.\nb) One diamond in the fore part.\n\nc) One black cone in the fore part.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000173": {
+        "question": "What lights shall a vessel at anchor exhibit, when less than 50 metres in\n length ?\n\na) The lights of a vessel at anchor.\nb) Instead of the lights of a vessel at anchor, an all-round white light where it can best be seen.\n\nc) A light in the fore part.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000174": {
+        "question": "Where shall the shapes and lights of the vessels aground be exhibited ?\n\na) In the fore part.\nb) At the sternmast head.\n\nc) Where they can best be seen.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000013": {
+        "question": "Which is the best manoeuvre to allow more time to asset the situation,\n when a collision must be avoided ?\n\na) Slackening her speed or taking all way off by stopping or reversing her means of propulsion.\nb) Stopping the vessel.\n\nc) Slackening the speed to steerage way.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000014": {
+        "question": "How shall vessels engaged in fishing conduct in a traffic separation\n scheme ?\n\na) They shall conduct as any other vessel and shall comply with the COLREG rules.\nb) They shall navigate in any direction for fishing purposes.\n\nc) They shall not impede the passage of any vessel following a traffic lane.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000015": {
+        "question": "How shall a vessel overtaking any other conduct ?\n\na) The vessel overtaking any other will have priority.\nb) The overtaken vessel shall manoeuvre such as to allow the overtaking vessel to overtake.\n\nc) Any vessel overtaking any other shall keep out of the way of the vessel being overtaken.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000016": {
+        "question": "When shall a vessel be deemed to be overtaking any other ?\n\na) When coming up with another vessel from a direction more than 22.5 degrees aft her beam so that at night she\n would be able to see only the sternlight of that vessel.\nb) When she will be able to see the sternlight and the sidelights of the overtaken vessel.\n\nc) When she will be able to see the stern-masthead light and the sidelights.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000017": {
+        "question": "How shall a vessel manoeuvre in doubt as to whether she is overtaking\n another ?\n\na) She shall consider herself a privileged vessel and shall maintain her course and speed.\nb) She shall assume that this is the case and act accordingly.\n\nc) She shall give the regular signals and after being enlightened, act according to the circumstances.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000018": {
+        "question": "What manoeuvre shall be made when 2 power-driven vessels are crossing\n so as to involve risk of collision ?\n\na) The vessel which sees the other on port side shall keep out of the way of the other.\nb) The vessel which sees the other on starboard side shall reduce speed or even stop to let the other pass by.\n\nc) The vessel which has the other on her own starboard side shall keep out of the way and, if the circumstances of\n the case admit, avoid crossing ahead of the other vessel.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000175": {
+        "question": "What does the word \"whistle\" mean, aboard ?\n\na) An electronic device capable of producing short and prolonged blasts.\nb) Any sound signalling appliance capable of producing the blasts prescribed by the rules.\n\nc) A mechanical device producing only fog signals.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000176": {
+        "question": "What does the term \"prolonged\" mean ?\n\na) A blast of from 4 to 6 seconds' duration.\nb) A blast of more than 6 seconds' duration, produced by a power-driven vessel, underway.\n\nc) A blast of from 2 to 3 seconds' duration, produced by a vessel.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000177": {
+        "question": "May the bell or the gong, or both be replaced by other equipment having\n the same sound characteristics ?\n\na) Yes, but only the gong at the stern.\nb) They cannot be replaced.\n\nc) Both of them may be replaced, provided that manual sounding shall always be possible.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000178": {
+        "question": "Which is the sound signal to indicate the manoeuvre \"I am altering my\n course to port\" ?\n\na) One prollonged blast followed by 2 short blast.\nb) 2 short blasts.\n\nc) 2 prolonged blasts followed by 2 short blasts.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000179": {
+        "question": "Which is the sound signal to indicate the manoeuvre \"I am operating astern\n propulsion\" ?\n\na) One prolonged blast followed by 3 short blasts.\nb) 3 short blasts preceded and followed by one prolonged blast.\n\nc) 3 short blasts.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000180": {
+        "question": "What may the sound signals given on the whistle be supplemented by, to\n indicate the manoeuvre being carried out ?\n\na) By ligth signals.\nb) By any other signals.\n\nc) By one or two black balls at the masthead.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000181": {
+        "question": "What is the duration of one flash, when using the manoeuvring light signal\n ?\n\na) About one second.\nb) 2 to 3 seconds.\n\nc) As long as possible so as to be observed.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000182": {
+        "question": "What signals shall a vessel give, when indicating her agreement to be\n overtaken ?\n\na) One prolonged blast and 5 short blasts.\nb) One prolonged, one short, one prolonged and one short blast ( International Code, letter \"C\" ).\n\nc) One short blast for starboard and 2 short blasts for port.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000183": {
+        "question": "What light signals may suppliment the sound signals given by a vessel\n which fails to understand the intentions of another or is in doubt whether\n sufficient action is being taken by the other to avoid collision ?\n\na) Successive light signals.\nb) A light signal of at least 5 short and rapid flashes.\n\nc) One long light signal and other short light signals.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000184": {
+        "question": "If whistles are fitted on the vessel at a distance apart of more than 100\n metres, which of them shall be used for giving manoeuvring and warning\n signals ?\n\na) One of them.\nb) Both of them.\n\nc) Only the whistle forward for warning and only the whistle aft for manoeuvring.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000185": {
+        "question": "What sound signal shall a vessel underway but stopped and making no\n way through the water give, in conditions of restricted visibility ?\n\na) One prolonged warning blast at intervals of one minute.\nb) At intervals of not more than 2 minutes 2 prolonged blasts in succession with an interval of about 2 seconds\n between them.\nc) 5 short warning blasts at intervals of one minute.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000186": {
+        "question": "What sound signal shall a vessel not under command give, in conditions of\n restricted visibility ?\n\na) One prolonged blast followed by 2 short blasts at intervals of not more than 2 minutes.\nb) One prolonged blast and 5 short blasts at intervals of 2 minutes.\n\nc) 5 short warning blasts at intervals not more than one minute.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000187": {
+        "question": "What sound signal shall a vessel restricted in her ability to manoeuvre give,\n in conditions of restricted visibility ?\n\na) One long blast followed by 3 short blasts at intervals of 2 minutes.\nb) 3 short blasts preceded and followed by one prolonged blast at intervals of 2 minutes.\n\nc) One prolonged blast followed by 2 short blasts at intervals of not more than 2 minutes.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000188": {
+        "question": "What sound signals shall a fishing vessel at anchor give, in conditions of\n restricted visibility ?\n\na) Ringing the bell rapidly for 5 seconds at intervals of one minute.\nb) One prolonged blast followed by 2 short blasts at intervals of not more than 2 minutes.\n\nc) Ringing the bell rapidly for 5 seconds and one prolonged blast on the whistle at intervals of not more than 2\n minutes.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000189": {
+        "question": "What sound signals shall a vessel at anchor give, if her lenght is less than\n 100 metres, in conditions of restricted visibility ?\n\na) Rapid blasts on the bell for about 5 seconds, at intervals of not more than one minute.\nb) 3 short blasts on the whistle and rapid blasts on the bell in the fore part at intervals of 2 minutes.\n\nc) One short blast, one prolonged and one short blast at intervals of one minute.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000190": {
+        "question": "What additional sound signal shall a vessel at anchor give, in conditions of\n restricted visibility to give warning of her position and of the possibility of\n collision to an approaching vessel ?\n\na) Signal on the whistle : one short blast followed by one prolonged blast and then one short blast.\nb) Signal on the whistle : 5 short warning blasts.\n\nc) Signal on the whistle and/or by fog horn : one prolonged blast followed by rapid short blasts.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000191": {
+        "question": "What sound signals shall a pilot vessel give in conditions of restricted\n visibility, when underway and engaged on pilotage duty ?\n\na) One prolonged blast at intervals of not more than 2 minutes and in addition an identity signal consisting of 4 short\n blasts.\nb) One prolonged blast at intervals of one minute.\n\nc) 4 short blasts on the whistle at intervals of one minute.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000193": {
+        "question": "In a narrow channel, a vessel trying to overtake another on the other\n vessel`s port side, would sound a whistle signal of_____________.\n\na) one short blast\nb) two short blasts\n\nc) two prolonged blasts followed by two short blasts\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000194": {
+        "question": "What whistle signal, if any, would be sounded when two vessels are\n meeting, but will pass clear starboard to starboard?\n\na) One short blast\nb) Two short blasts\n\nc) No signal is required\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000195": {
+        "question": "A power-driven vessel leaving a quay or wharf must sound what signal?\n\na) Three short blasts\nb) A long blast\n\nc) No signal is required.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000199": {
+        "question": "In a narrow channel, an overtaking vessel which intends to pass on the\n other vessel`s port side would sound ___________________.\n\na) one prolonged followed by two short blasts\nb) one short blast\n\nc) two prolonged followed by two short blasts\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000200": {
+        "question": "When moving from a berth alongside a quay (wharf), a vessel must sound\n __________\n\na) three short blasts\nb) a long blast\n\nc) No signal is required\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000201": {
+        "question": " You are approaching another vessel and will pass safely starboard to\n starboard without changing course. You should _________________\n\na) hold course and sound no whistle signal\nb) hold course and sound a two blast whistle signal\n\nc) change course to starboard and sound one blast\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000202": {
+        "question": " Your vessel is backing out of a slip in a harbor. Visibility is restricted. You\n should sound __________________\n\na) one prolonged blast only\nb) one prolonged blast followed by three short blasts when the last line is taken aboard\n\nc) one prolonged blast followed by three short blasts when leaving the slip\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000203": {
+        "question": " A light used to signal passing intentions must be an _____________.\n\na) alternating red and yellow light\nb) alternating white and yellow light\n\nc) all-round white light only\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000204": {
+        "question": "\n\nANR0000000204 While underway and in sight of another vessel, you put your engines full\n speed astern. Which statement concerning whistle signals is TRUE?\n\na) You must sound three short blasts on the whistle\nb) You must sound one blast if backing to starboard\n\nc) You must sound whistle signals only if the vessels are meeting.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000205": {
+        "question": "Which signal is sounded ONLY by a vessel in sight of another?\n\na) One short blast on the whistle\nb) Four short blasts on the whistle\n\nc) One prolonged blast on the whistle\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000206": {
+        "question": "\"Vessel\" \"A\" is overtaking vessel\" \"B\" on open waters as shown, and will\n pass without changing course. Vessel \"A\" _____________.\n\na) need not sound any whistle signals\nb) should sound two short blasts\n\nc) should sound the danger signal\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000207": {
+        "question": " Two prolonged blasts followed by one short blast on the whistle is a signal\n which would be sounded by a vessel _____________.\n\na) overtaking another in a narrow channel\nb) anchored\n\nc) engaged in mineclearance\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000208": {
+        "question": " In a narrow channel, an overtaking which intends to PASS on the other\n vessel`s port side would sound _____________.\n\na) one prolonged followed by two short blasts\nb) one short blast\n\nc) two prolonged followed by two short blasts\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000209": {
+        "question": " When two vessels are in sight of one another and NOT in or near an area\n of restricted visibility, any of the following signals may be given EXCEPT\n ____________.\na) a light signal of at least five short and rapid flashes\nb) one prolonged, one short, one prolonged, and one short whistle blast\n\nc) four short whistle blasts\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000210": {
+        "question": " Which signal is sounded ONLY by a vessel in sight of another and NOT in\n or near an area of restricted visibility?\n\na) Four short blasts on the whistle\nb) One prolonged blast on the whistle\n\nc) One short blast on the whistle\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000211": {
+        "question": "A signal of one prolonged, one short, one prolonged, and one short blast,\n in that order is given by a vessel _____________.\n\na) engaged on pilotage duty\nb) in distress\n\nc) being overtaken in a narrow channel\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000212": {
+        "question": " On open water two vessels are in an overtaking.The overtaking vessel has\n just sounded one short blast on the whistle. What is the meaning of this\n whistle signal?\n\na) \"I request permission to pass you on my port side\".\nb) \"I will maintain course and speed and pass you an your starboard side.\"\n\nc) \"I am changing course to starboard.\"\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000217": {
+        "question": "A sailing vessel is overtaking a power-driven vessel in a narrow channel,\n so as to pass on the power-driven vessel`s port side. The overtaken vessel\n will have to more to facilitate passage. The sailing vessel is the\na) stand-on vessel and would sound two short blasts\nb) give-way vessel and would sound no whistle signal\n\nc) give-way vessel and would sound two prolonged blasts followed by two short blasts\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000218": {
+        "question": "Which signal is sounded ONLY when vessels are NOT in sight of each\n other?\n\na) A signal of at least five short and rapid blasts\nb) Four short blasts on the whistle\n\nc) One prolonged, one short, one prolonged, and one short blast on the whistle, in that order\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000219": {
+        "question": "You are underway in a narrow channel, and you are being overtaken by a\n vessel astern. After the overtaking vessel sounds the proper signal\n indicating his intention to pass your vessel on your starboard side, you\na) one short blast\nb) two prolonged blasts\n\nc) one prolonged, one short, one prolonged, and one short blast in that order\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000220": {
+        "question": " A vessel sounds one short blast. This signal indicates the vessel\n _____________,\n\na) intendes to alter course to starboard\nb) intends to pass starboard to starboard\n\nc) is altering course to starboard\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000221": {
+        "question": " A vessel sounds two short blasts. This signal indicates the vessel\n _____________.\n\na) intends to alter course to port\nb) intends to pass starboard to starboard\n\nc) is altering course to port\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000222": {
+        "question": "You intend to overtake a vessel in a narrow channel, and you intend to\n pass along the vessel`s port side. How should you signal your intention?\n\na) No signal is necessary\nb) Two prolonged blasts\n\nc) two prolonged followed by two short blasts\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000223": {
+        "question": "\"Vessel \"A\"is overtaking vessel \"B\" on open waters and will pass without\n changing course. Vessel \"A\" _____________.\n\na) should sound two short blasts\nb) should sound the danger signal\n\nc) will not sound any whistle signals\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000224": {
+        "question": "When vessels are in sight of one another, two short blasts from one of the\n vessels means _____________.\n\na) \"I am altering my course to starboard\"\nb) \"I am altering my course to port\"\n\nc) \"I intend to change course to starboard\"\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000225": {
+        "question": " In which case would an overtaking vessel sound a whistle signal of two\n prolonged followed by one short blast?\n\na) When obertaking in restricted visibility\nb) When overtaking in a narrow channel\n\nc) When overtaking on open waters\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000226": {
+        "question": "Under what circumstances would an overtaking vessel sound a whistle\n signal of two prolonged followed by one short blast?\n\na) When overtaking in restricted visibility\nb) When overtaking in a narrow channel\n\nc) When overtaking on open waters\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000227": {
+        "question": "How do COLREG rules interfere with the special rules for roadsteads,\n harbours, rivers, lakes or inland waterways navigable by seagoing vessels\n ?\n\na) Nothing in COLREG rules shall interfere with the operation of special rules, made by an appropriate authority, but\n such special rules shall conform as closely as possible to COLREG rules.\nb) The appropriate authority is not obliged to take into account COLREG rules.\n\nc) The COLREG rules shall apply in all circumstances.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000228": {
+        "question": "When is a vessel, the master or the owner exonerated from the\n consequences of any neglect or the neglect of any precaution which may\n be required by the ordinary practice of seaman ?\n\na) The compliance with COLREG rules exonerates the vessel, master or owner from any responsability.\nb) The closest possible compliance with the rule \"privileged vessel\" exonerates the vessel, master or owner from any\n responsability.\nc) The rules shall not exonerate the vessel, master or owner from the consequences of any neglect to comply with\n these rules or of the neglect of any precaution which may be required by the ordinary practice of seaman.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000229": {
+        "question": "What does the term \"power-driven vessel\" mean ?\n\na) The term \"power-driven vessel\" means any vessel propelled by machinery.\nb) Vessels using a Diesel engine as a means of propulsion.\n\nc) All vessels capable of navigating on water, except for sailing vessels.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000230": {
+        "question": "What does the term 'vessel engaged in fishing\" mean ?\n\na) Any vessel fishing with trolling lines or other fishing apparatus which do not restrict manoeuvrability.\nb) All vessels built and equipped for fishing.\n\nc) Any vessel fishing with nets, lines, trawls or other fishing apparatus which restrict manoeuvrability.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000231": {
+        "question": "What does the term \"vessel not under command\" mean ?\n\na) Any vessel having serious damages to the steering gear and/or the main engine.\nb) Any vessel which through some exceptioal circumstance is unable to manoeuvre as required by the rules and is\n therefore unable to keep out of the way of another vessel.\nc) Any damaged vessel which is unable to manoeuvre and to keep out of the way of another vessel.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000232": {
+        "question": "What vessel may be considered as \"vessel restricted in her ability to\n manoeuvre\" ?\n\na) A vessel engaged in fishing which is going to recover her gear.\nb) A drifting vessel.\n\nc) A vessel engaged in dredging, hydrographic surveying and oceanographic operations or underwater operations.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000233": {
+        "question": "What vessel may be considered as \"vessel restricted in her ability to\n manoeuvre\" ?\n\na) A vessel engaged in an abandon-ship drill.\nb) A vessel engaged in the launching or recovery of aircraft.\n\nc) A deep draught vessel sailing in narrow channels.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000234": {
+        "question": "What does the term \"vessel underway\" mean ?\n\na) Any vessel which is not made fast to the shore.\nb) Any vessel at sea having the propeller system working.\n\nc) Any vessel which not at anchor or made fast to the shore, or aground.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000019": {
+        "question": "When shall a stand-on vessel take action to avoid collision by her\n manoeuvre alone ?\n\na) When the vessels are navigating through the straits.\nb) When entering or leaving a traffic separation scheme.\n\nc) When, from any cause, the vessel finds herself so close that collision cannot be avoided by the action of the give-\n way vessel alone, she shall take such action as will best aid to avoid collision.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000020": {
+        "question": "Which vessel's way shall a sailing vessel underway keep out of ?\n\na) Fish-freezing vessels with high speed.\nb) Oil-tankers.\n\nc) Vessels restricted in their ability to manoeuvre.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000021": {
+        "question": "Which vessel's way shall, so far as possible a vessel engaged in fishing,\n when underway, keep out of ?\n\na) Power-driven vessels at high speed.\nb) Air-cushion vessels underway.\n\nc) Vessels restricted in their ability to manoeuvre.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000022": {
+        "question": "Which vessel's way shall a vessel constrained by her draught keep out of ?\n\na) Vessels restricted in their ability to manoeuvre.\nb) Power-driven vessels underway, with low speed.\n\nc) Specialized vessels.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000023": {
+        "question": "Which vessel's way shall a vessel constrained by her draught keep out of ?\n\na) Sailing vessels.\nb) Vessels not under command.\n\nc) Oil-tankers and tankers carrying liquefied gases.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000024": {
+        "question": "How shall a power-driven vessel navigate in conditions of restricted\n visibility ?\n\na) At a safe speed and her engines ready for immediate manoeuvre.\nb) At slow speed but the telegraph on \"stand-by\" in order to be able to manoeuvre in ample time.\n\nc) At economic speed, but with a proper look-out.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000235": {
+        "question": "What does the term \"vessel's breadth\" mean ?\n\na) Vessel's greatest breadth.\nb) Vessel's breadth midship.\n\nc) The mean breadth of the vessel measured at the bow, stern and midship.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000236": {
+        "question": "How shall a proper look-out be maintained aboard ?\n\na) Every vessel shall at all times maintain a proper look-out by sight and hearing as well as by all available means\n appropriate in the prevailing circumstances and conditions so as to make a full appraisal of the situation and of risk\nb) Every vessel shall at all times maintain a look-out by sight to avoid any dangerous situation.\n\nc) When the visibility is restricted, a proper look-out shall be maintained in order to make a full appraisal of any risk of\n collision.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000237": {
+        "question": "What is the reason for proceeding at a \"safe speed\" ?\n\na) A vessel shall proceed at a safe speed so that she can take proper and effective action to avoid collision and be\n stopped within a distance appropriate to the prevailing circumstances and conditions.\nb) A vessel shall proceed at a safe speed so that she can in all circumstances avoid any collision.\n\nc) A vessel shall proceed at a safe speed to avoid a close quarters situation between ships.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000238": {
+        "question": "Which are the factors taken into accont in determining the \"safe speed\"\n additionally, by vessels with operational radar ?\n\na) The minimal passing distance, the use of a proper range scale, the elimination of jamming.\nb) The characteristics, efficiency, constraints imposed by the radar range scale in use, the effect of the sea state, the\n number, location and movement of vessels.\nc) The same factors as when the radar is not in use.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000239": {
+        "question": "When shall it be deemed that a risk of collision exists, when an appreciable\n bearing change is evident ?\n\na) When approaching a very large vessel or a tow or when approaching a vessel at close range.\nb) When a vessel approaching from abeam, at high speed.\n\nc) When approaching a vessel at low speed, from astern.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000240": {
+        "question": "How shall the alternations of course and/or speed be made to avoid\n collision ?\n\na) Small alterations of course and/or speed not to deviate too much from vessel's course.\nb) Large enough alterations of speed and small alterations of course, not to deviate too much from vessel's course.\n\nc) If the circumstances admit, they shall be large enough to be readily apparent to anoter vessel observing visually or\n by radar.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000241": {
+        "question": "How shall vessels not using a traffic separation scheme navigate ?\n\na) They shall use the inshore traffic zones.\nb) They shall avoid it by as wide a margin as is practicable.\n\nc) They shall navigate in the proximity of, but shall not cross the separation line.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000242": {
+        "question": "Which are the vessels exempted from complying with provisions at the rule\n regarding navigation in traffic separation schemes ?\n\na) Vessels restricted in their ability to manoeuvre when engaged in an operation for the maintenance of safety of\n navigation in the traffic separation scheme is exempted from complying with this rule.\nb) Vessels with damages to the main engine.\n\nc) Vessels with damages to the steering gear.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000243": {
+        "question": "How shall 2 power-driven vessels manoeuvre, when navigating on\n reciprocal or nearly reciprocal courses, so as to involve risk of collision ?\n\na) Each shall alter courses to port in order to pass at a safe distance.\nb) They shall give the regular signals, alter course to starboard or port, according to the circumstances.\n\nc) Each shall alter her course to starboard so that each shall pass on the port side of the other.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000244": {
+        "question": "How shall 2 sailing vessels manoeuvre when they are approaching one\n another, so as to involve risk of collision and each has the wind on a\n different side ?\n\na) The vessel which has the wind on the port side shall keep out of the way of the other.\nb) The vessel which has the wind on the starboard side shall keep out of the way of the other.\n\nc) The vessel which has the wind from astern shall keep out of the way of the other.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000245": {
+        "question": "Which is the action by given-way vessel ?\n\na) The vessel shall so far as possible take early and substantial action to keep well clear.\nb) The vessel shall take early action with small alterations of course not to deviate too much from her course.\n\nc) When the vessels are in close proximity, the give-way vessel shall take substantial action by alterations of course\n and speed to completly avoid the risk.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000246": {
+        "question": "When shall a stand-on vessel take action to avoid collision by her\n manoeuvre alone ?\n\na) The vessel shall not keep out of the way of another vessel, no matter the circumstances.\nb) As soon as it become apparent to her that the vessel required to keep out of the way is not taking appropriate\n action in compliance with the rules.\nc) When after taking the bearing, she realized that the risk of collision exists.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000247": {
+        "question": "Which vessel's way shall a power-driven vessel underway keep out of ?\n\na) A vessel not under command.\nb) All oil-tankers and tankers carrying liquefied gases.\n\nc) Power-driven vessels, with high speed.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000248": {
+        "question": "Which vessel's way shall a sailing vessel underway keep out of ?\n\na) Power-driven vessels with low speed.\nb) Vessels not under command.\n\nc) Oil-tankers or tankers carrying liquefied gases.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000249": {
+        "question": "Which vessel's way shall a sailing vessel underway keep out of ?\n\na) Vessels engaged in fishing.\nb) Trawlers underway to the fishing grounds.\n\nc) Fish-carriers, underway.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000250": {
+        "question": "Which vessels shall, if the circumstances of the case admit, avoid impeding\n the safe passage of a vessel constrained by her draught ?\n\na) Vessels restricted in their ability to manoeuvre.\nb) Vessels not under command.\n\nc) Power-driven vessels underway.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000251": {
+        "question": "To which vessels do the rules of conduct of vessels in restricted visibility\n apply to ?\n\na) Vessels navigating in areas of restricted visibility when only one of them is not in sight of one another.\nb) Vessels not in sight of one another when navigating in or near areas of restricted visibility.\n\nc) Vessels navigating in or near areas of restricted visibility when they sight only the masthead lights of one another.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000253": {
+        "question": "Except where it has been determined that a risk of collision does not exist,\n point out how a vessel shall conduct, which hears apparently forward of her\n beam the fog signal of another vessel, or which cannot avoid a close-\na) She shall reduce her speed to the minimum at which she can be kept on her course. She shall, if necessary, take\n all her way off and in any event navigate with extreme caution untill danger of collision is over.\nb) She shall keep at the same speed, but with the engine on stand-by for manoeuvre in order to avoid risk of collision\n\nc) She shall navigate at economic speed and proper look-out, radar working and the engines on stand-by ready for\n manoeuvre.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000254": {
+        "question": " When shall the rules concerning lights be complied with ?\n\na) By night.\nb) By night and in restricted visibility.\n\nc) From sunset to sunrise.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000255": {
+        "question": "'What does the word \"sidelight\" mean ?\n\na) A green light on the starboard side and a red light on the port side each showing an unbroken light over an arc of\n the horizon of 112.5 degrees and so fixed as to show the light from right ahead to 22.5 degrees abaft the beam on\nb) The white sidelights from the side-ladders.\n\nc) The white light from the decks.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000256": {
+        "question": "What does the term \"towing light\" mean ?\n\na) A white light placed above the sternlight used as a steering guide, while towing.\nb) A yellow light showing an unbroken light over an arc of the horizon of 360 degrees.\n\nc) A yellow light placed as nearly as practicable at the stern showing an unbroken light over an arc of the horizon of\n 135 degrees and so fixed as to show the light 67.5 degrees from right aft on each side of the vessel.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000257": {
+        "question": "What range shall the mastlights be visible at, for vessels between 12 and\n 20m in length ?\n\na) 1 - 2 nautical miles.\nb) 2 nautical miles.\n\nc) 3 nautical miles.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000258": {
+        "question": "What range shall the sidelights be visible at for vessels more than 50\n metres in length ?\n\na) 3 nautical miles.\nb) 5 nautical miles.\n\nc) Between 3 and 5 nautical miles.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000259": {
+        "question": "What range shall the sternlight be visible at, for vessels of 50 metres or\n more in length ?\n\na) 3 nautical miles.\nb) 4 nautical miles.\n\nc) 2 nautical miles.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000260": {
+        "question": "What range shall the sternlight be visible at, for vessels less than l2 metres\n in length ?\n\na) 3 nautical miles.\nb) 1.5 nautical miles.\n\nc) 2 nautical miles.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000261": {
+        "question": "What range shall the towing light be visible at, for vessels of 12-50 metres\n in length ?\n\na) 3 nautical miles.\nb) 2 nautical miles.\n\nc) 5 nautical miles.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000262": {
+        "question": "What range shall the white,red, green or yellow all round light be visible at,\n for vessels less than 12 metres in length ?\n\na) 1 nautical mile.\nb) Less than 1 nautical mile.\n\nc) 2 nautical miles.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000263": {
+        "question": "What lights shall a power-driven vessel underway, of 50 metres or more in\n length, exhibit ?\n\na) A masthead light, sidelight and a sternlight.\nb) A masthead light forward, a second masthead light abaft of and higher than the forward one, sidelights and a\n sternlight.\nc) Sidelights, a sternlight and two white masthead lights.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000264": {
+        "question": "What lights shall a power-driven vessel of less than 50 metres in length\n exhibit, when towing and the length of the tow exceeds 200 metres ?\n\na) 3 masthead lights in a vertical line and a towing light.\nb) 3 masthead lights in a vertical line, sidelights and a sternlight.\n\nc) 3 masthead lights in a vertical line, sidelights, a sternlight and a towing light.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000265": {
+        "question": "What lights shall a power-driven vessel of more than 50 metres in length\n exhibit, when towing and the length of the tow exceeds 200 metres ?\n\na) 3 masthead lights in a vertical line, sidelights and a sternlight.\nb) Instead of the lights forward aft or aft, 3 masthead lights in a vertical line, sidelights, a sternlight, a towing light.\n\nc) 3 masthead lights in a vertical line, sidelights and a towing light.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000266": {
+        "question": "What lights shall a pushing vessel and a vessel being pushed ahead\n exhibit, when they are rigidly connected in a composite unit ?\n\na) The lights of a tugboat with the length of the tow less than 200 metres.\nb) Every vessel shall exhibit herwn lights prescribed for the power-driven vessel underway.\n\nc) The lights of a single power-driven vessel, underway.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000267": {
+        "question": "What lights shall the objects or vessels being towed exhibit, other than\n inconspicuous vessels or objects ?\n\na) Masthead lights and a sternlight.\nb) Sidelights and a sternlight.\n\nc) Towing lights and a sternlight.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000268": {
+        "question": "Where shall the shape of a vessel being towed be placed when the length\n of the tow exceeds 200 metres ?\n\na) At the foremast head.\nb) At the aftermast head.\n\nc) Where it can best be seen.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000269": {
+        "question": "What lights shall an inconspicuous, partly submerged vessel or object\n more than 25 metres in breadth, exhibit ?\n\na) 4 all-round white lights at the after end, forward end and on each side at the extremities of her breadth.\nb) An all-round white light at the forward end and another all-round white light at the after end.\n\nc) Green and red sidelights at the extremities of her breadth.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000270": {
+        "question": "What shape shall an inconspicuous, partly submerged object or vessel\n exhibit by day when being towed and the length of the tow is less than 200\n metres ?\n\na) A cone apex downwards at the forward end.\nb) A diamond at or near the after end of the last vessel or object being towed.\n\nc) 2 black cones, apexes together.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000271": {
+        "question": "What lights shall a sailing vessel underway exhibit, when her length is less\n than 20 metres ?\n\na) Sidelights and a sternlight combined in one lantern.\nb) Sidelights.\n\nc) A white light to be exhibited if necessary.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000272": {
+        "question": "Which are the additional lights a sailing vessel underway may exhibit ?\n\na) An all-round green light at the top of the mast.\nb) An all-round red light at the top of the mast.\n\nc) 2 all-round lights in a vertical line, the upper being red and the lower green at the top of the mast.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000273": {
+        "question": "What shape shall a vessel proceeding under sail exhibit, when also being\n propelled by machinery ?\n\na) A conical shape forward, apex downward, where it can best be seen.\nb) A diamond where it can best be seen.\n\nc) 2 black cones with the apexes together.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000274": {
+        "question": "What lights shall a vessel engaged in trawling exhibit, when not underway\n ?\n\na) An all-round green light and a masthead light placed higher.\nb) 2 all-round lights in a vertical line, the upper being green and the lower white, a masthead light placed abaft of and\n higher than the all-round light.\nc) 2 all-round lights in a vertical line, the upper being white and the lower green and a sternlight.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000275": {
+        "question": "What shapes shall a vessel engaged in trawling exhibit ?\n\na) A shape consisting of 2 cones with their apexes together.\nb) A diamod shape.\n\nc) 2 black balls in a vertical line.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000276": {
+        "question": "What lights shall a vessel engaged in fishing other than trawling exhibit,\n when there is outlying gear extending more than 150 metres horizontally\n and is not making way through the water ?\n\na) 2 all-round lights in a vertical line, the upper being white and the lower red, an all-round red light in the direction of\n the gear.\nb) 2 lights in a vertical line, the upper being red and the lower white, an all-round white light in the direction of the gear.\n\nc) An all-round white light in the direction of the gear.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000277": {
+        "question": "What lights and shapes shall a fishing vessel exhibit, when not engaged in\n fishing ?\n\na) The lights and shapes prescribed for a vessel of her length.\nb) The lights of a vessel engaged in fishing and making way through the water.\n\nc) The lights of a vessel restricted in her ability to manoeuvre.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000278": {
+        "question": "What additional lights shall vessels engaged in fishing with purse seine\n gear exhibit, when engaged in fishing in close proximity to other vessels ?\n\na) A yellow light flashing alternately white equal light and occultation duration.\nb) An all-round white light.\n\nc) 2 yellow lights in a vertical line flashing alternately every second and with equal light and occultation. duration.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000279": {
+        "question": "What lights shall a vessel not under command exhibit, when not making\n way through the water ?\n\na) Sidelights and 2 red lights in a vertical line.\nb) 2 all-round red lights in a vertical line.\n\nc) The red lights and a sternlight.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000280": {
+        "question": "Where shall the shapes of a vessel not under command be placed ?\n\na) Forward.\nb) Where they can best be seen.\n\nc) At the aftmasthead.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000281": {
+        "question": "What lights shall a vessel restricted in her ability to manoeuvre exhibit,\n when not making way through the water ?\n\na) 3 lights in a vertical line, the highest and the lowest being red and the middle one white.\nb) 3 white lights in a vertical line.\n\nc) 3 lights in a vertical line, the highest and the lowest being white and the middle one red.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000282": {
+        "question": "What shapes shall a vessel restricted in her ability to manoeuvre exhibit ?\n\na) 2 black balls in a vertical line.\nb) A black diamond.\n\nc) 3 shapes in a vertical line, the highest and the lowest being a ball and the middle one a diamond.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000283": {
+        "question": "What lights shall a vessel engaged in dredging or underwater operations\n exhibit, when restricted in her ability to manoeuvre ?\n\na) 2 all-round red lights in a vertical line to indicate the side on which the obstruction exists, 2 all-round green lights in\n a vertical line to indicate the side on which another vessel may pass and the lights of a vessel restricted in her\nb) The lights of a vessel not under command.\n\nc) 2 all-round red lights in a vertical line to indicate the side on which an obstruction exists, 2 red lights in a vertical line\n to indicate the side on which another vessel may pass and the lights of a power-driven vessel underway.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000284": {
+        "question": "What lights shall a vessel engaged in dredging or underwater operations\n exhibit, when restricted in her ability to manoeuvre and at anchor ?\n\na) The lights of a power-driven vessel at anchor.\nb) A red light indicating the side on which an obstruction exists and the lights for a vessel at anchor.\n\nc) Instead of the lights of a vessel at anchor, the lights of a vessel restricted in her ability to manoeuvre engaged in\n dredging operations.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000285": {
+        "question": "What shapes shall a vessel engaged in mineclearance operations exhibit ?\n\na) The shapes of a vessel not under command.\nb) 3 balls and in case the vessel is at anchor, 3 balls and the shape prescribed for anchored vessels.\n\nc) The shapes of a power-driven vessel underway and 3 diamonds.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000286": {
+        "question": "What do the shapes and lights of vessels engaged in mineclearance\n operations indicate ?\n\na) That it is dangerous for another vessel to approach within 1000 metres of the mineclearance vessel.\nb) That it is dangerous for another vessel to approach within 500 metres of the mineclearance vessel.\n\nc) That another vessel shall navigate with precaution keeping more than 2 nautical miles distance from the vessel.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000287": {
+        "question": "Where shall the lights or shapes of the vessels constrained by their draught\n be exhibited ?\n\na) Where they can best be seen.\nb) At the stern masthead.\n\nc) At the fore masthead.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000288": {
+        "question": "What lights shall a vessel engaged on pilotage duty exhibit, when she is\n not underway ?\n\na) 2 all-round lights in a vertical line, the upper being red and the lower white.\nb) An all-round white alternating light.\n\nc) 2 all-round lights in a vertical line, the upper being white and the lower red.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000289": {
+        "question": "What lights and shapes shall a pilot vessel exhibit when not engaged on\n pilotage duty ?\n\na) The lights and shapes prescribed for a pilot vessel.\nb) The lights or shapes prescribed for a similar vessel of her length.\n\nc) The lights and shapes for vessels restricted in their ability to manoeuvre.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000290": {
+        "question": "What is the length of a vessel at anchor which must use the available\n working or equivalent lights to illuminate her decks ?\n\na) 75 metres.\nb) 50 metres.\n\nc) 100 metres and more.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000291": {
+        "question": "What shapes shall a vessel aground exhibit ?\n\na) The shapes of a vessel at anchor and 3 balls in a vertical line.\nb) The shapes of a vessel at anchor and 2 balls in a vertical line.\n\nc) 2 balls in a vertical line.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000292": {
+        "question": "What ligths and shapes shall a seaplane exhibit, when alighted on the sea\n ?\n\na) The lights and shapes prescribed by the rules.\nb) The lights and shapes necessary for identification.\n\nc) The lights and shapes for vessels of less than 20 metres in length.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000293": {
+        "question": "What does the term \"short blast\" mean ?\n\na) A blast of from 2 to 3 seconds' duration.\nb) A blast of a short, less than 1 second's duration, produced by a power-driven vessel underway.\n\nc) A blast of about 1 second's duration.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000294": {
+        "question": "What equipment for sound signals shall a vessel of 100 metres or more in\n length be provided with?\n\na) A whistle, a bell and a gong at the stern.\nb) A whistle in the fore part and a gong at the stern.\n\nc) A bell in the fore part and a gong at the stern.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000025": {
+        "question": "When shall the rules concerning \"lights and shapes\" complied with ?\n\na) When underway, by day and by night.\nb) In all weathers.\n\nc) When she is moored, by day and by night.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000026": {
+        "question": "What does the word \"sternlight\" mean ?\n\na) A white light placed at the stern of a vessel.\nb) A white light placed as nearly as practicable at the stern showing an unbroken light over an arc of the horizon of\n 135 degrees and soixed as to show the liht 67.5 degrees right aft on from each side of the vessel.\nc) A white light placed at the stern showing an unbroken light over an arc of the horizon 360 degrees.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000027": {
+        "question": "What does the term \"flashing light\" mean ?\n\na) A light flashing at regular intervals at a frequency of 60 flashes per minute.\nb) A light flashing at regular intervals at a frequency of 120 flashes or more per minute.\n\nc) A light flashing quick flashes at regular intervals.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000028": {
+        "question": "What ranges shall the mastlights be visible at for vessels of 50m or more in\n length ?\n\na) 5 miles maximum.\nb) Between 3 and 5 nautical miles.\n\nc) 6 nautical miles.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000029": {
+        "question": "What range shall the mastlights be visible at, for vessels between 20 and\n 50m in length ?\n\na) 5 nautical miles.\nb) Between 3 - 5 nautical miles.\n\nc) 2 nautical miles.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000030": {
+        "question": "What range shall the sidelights be visible at for vessels less than 12 metres\n in length ?\n\na) 2 nautical miles.\nb) 0.5 nautical miles.\n\nc) 1 nautical mile.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000295": {
+        "question": "What equipment for sound signals shall a vessel of less than 12 metres in\n length carry ?\n\na) Vessels of less than 12 metres in length shall not be obliged to carry sound signalling appliances.\nb) Vessels of less than 12 metres in length shall carry a whistle and a bell in the fore part.\n\nc) Vessels of less than 12 metres in length shall not be obliged to carry the prescribed sound signalling appliances,\n but they shall be provided with some other means of making an efficiement sound signal.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000296": {
+        "question": "Which is the sound signal to indicate the manoeuvre \"I am altering my\n course to starboard\" ?\n\na) One short blast.\nb) One prolonged blast followed by one short blast.\n\nc) 2 prolonged blast followed by one short blast.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000297": {
+        "question": "What significance shall the light signal\"one flash \" have, if associated with\n the sound signal ?\n\na) I am altering my course to starboard.\nb) I have stopped my engines.\n\nc) I am manoeuvring with difficulty to port.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000298": {
+        "question": "What significance shall light signal \"3 flashes\" have, if associated with the\n sound signal ?\n\na) I am operating astern propulsion.\nb) I am manoeuvring astern propulsion.\n\nc) I have my engines stopped.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000299": {
+        "question": "When in sight of one another in a narrow channel or fairwey, what signal\n shall the vessel intending to overtake another on port side produce ?\n\na) 2 short blasts.\nb) 2 prolonged blasts followed by 2 short blasts.\n\nc) 2 short blasts preceded and followed by one prolonged blast.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000300": {
+        "question": "What sound signals shall a vessel give when in sight of another and failing\n to understand the intentions of another, or when in doubt whether sufficient\n action is being taken by the other to avoid collision ?\n\na) At least 5 short and rapid blasts on the whistle.\nb) One prolonged blast and 5 short blasts.\n\nc) 2 prolonged blasts followed by short blasts.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000301": {
+        "question": "What signal shall a vessel give, when approaching a bend or obstruction\n that may obscure another vessel and hearing a prolonged blast ?\n\na) One short blast \"I am altering my course to starboard\".\nb) One prolonged blast followed by one short blast.\n\nc) One prolonged blast.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000302": {
+        "question": "When shall sound signals be given, in conditions of restricted visibility ?\n\na) Only by day in conditions of restricted visibility.\nb) By night on foggy weather.\n\nc) By day and by night in conditions of restricted visibility.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000303": {
+        "question": "What sound signal shall a power-driven vessel give, when making way\n through the water in conditions of restricted visibility ?\n\na) 5 short warning blasts.\nb) One prolonged blast followed by one short blast at an interval of one minute.\n\nc) One prolonged blast at intervals of not more than 2 minutes.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000304": {
+        "question": "What sound signals shall vessels constrained by their draught give, in\n conditions of restricted visibility ?\n\na) One prolonged blast followed by 2 short blasts at intervals of not more than 2 minutes.\nb) One prolonged blast preceded and followed by one short blast at intervals of one minute.\n\nc) 5 short blasts at intervals of 2 minutes.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000305": {
+        "question": "What sound signals shall a fishing vessel underway give, in conditions of\n restricted visibility ?\n\na) 4 short ( warning ) blasts at intervals of 2 minutes.\nb) One prolonged blast followed by 2 short blasts at intervals of not more than 2 minutes.\n\nc) One prolonged blast followed by 3 short blasts at intervals of one minute.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000306": {
+        "question": "What sound signals shall a composite unit, pushing vessel-vessel being\n pushed ahead give, when stopped and not making way through the water,\n in conditions of restricted visibility ?\n\na) One prolonged blast at intervals of 2 minutes.\nb) One prolonged blast preceded and followed by one short blast at intervals of 2 minutes.\n\nc) 2 prolonged blasts at intervals of not more than 2 minutes\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000307": {
+        "question": "What sound signals shall a vessel at anchor give, of 100 metres or more in\n lenght, in conditions of restricted visibility ?\n\na) Rapid blasts on the bell in the forepart and one prolonged blast on the whistle at intervals of one minute.\nb) Rapid blasts on the bell in the forepart and immediately the gong shall be sounded in the after part for about 5\n secondat intervals of not more than one minute.\nc) 3 distinct strokes on the bell in the forepart and 3 strokes on the gong in the after part at intervals of one minute.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000308": {
+        "question": "What shall a vessel of less than 12 metres in length do, in conditions of\n restricted visibility, when she cannot give the signals prescribed by the\n rules ?\n\na) She shall give a sound signal on the whistle consisting of 5 short blasts at intervals of one minute.\nb) She shall make some other efficient sound signal at intervals of not more than 2 minutes.\n\nc) She shall give rapid strokes on the gong at intervals of not more than one minute.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000309": {
+        "question": "What sound signals shall a pilot vessel give, when stopped and not making\n way through the water, engaged on pilotage duty in conditions of restricted\n visibility ?\n\na) 4 short blasts on the whistle at intervals of one minute.\nb) The blasts of stopped vessel not making way through the water and in addition 4 short identity blasts.\n\nc) 2 prolonged blasts at intervals of one minute.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000310": {
+        "question": "Which is the alarm signal in radiotelephony ?\n\na) A 2-tone bitonal signal.\nb) A continuous tone signal.\n\nc) A signal consisting of short continuous tones.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000319": {
+        "question": "A single vessel being towed alongside shall show ________________\n\na) one all-round white light\nb) sidelights and a stern light\n\nc) only the outboard sidelight and a stern light\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000320": {
+        "question": " What lights are required for a single barge being towed alongside?\n\na) Sidelights and a stern light\nb) Sidelights, a special flashing light, and a stern light\n\nc) Sidelights and a special flashing light\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000321": {
+        "question": "A power-driven vessel pushing ahead or towing alongside will show\n sidelights, a sternlight, and _________________\n\na) an all-round red light where it can best be seen\nb) two yellow masthead lights in a vertical line\n\nc) two masthead lights in a vertical line\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000322": {
+        "question": " What characteristic must a light a light used to indicate passing intentions\n have?\n\na) It must be an alternating red and yellow light\nb) It must be an all-round white light\n\nc) It must be an all-round yellow light\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000323": {
+        "question": "What characteristic must a light have if used to signal passing intentions?\n\na) It must be an all-round white light\nb) It must be an alternating blue and white light\n\nc) It must be an all-round white or yellow light\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000325": {
+        "question": "A light used to signal passing intentions must be an ______________\n\na) all-round yellow light only\nb) all-round white light only\n\nc) all-round blue light only\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000326": {
+        "question": " A vessel displaying three red lights in a vertical line is _________________\n\na) restricted in her ability to maneuver\nb) not under command\n\nc) constrained by her draft\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000327": {
+        "question": " If at night a vessel displays three all-round red lights in a vertical line,\n during the day she may show ________________\n\na) two cones,base to base\nb) three black balls in a vertical line\n\nc) a cylinder\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000328": {
+        "question": " Which dayshape is prescribed for a vessel constrained by her draft?\n\na) A black diamond\nb) A cylinder\n\nc) A black ball\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000331": {
+        "question": "A towing light _____________.\n\na) flashes at regular intervals of 50-70 flashes per minute\nb) is yellow in color\n\nc) shows an unbroken light over an arc of the horizon of not less than 180 grd nor more than 225 grd\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000332": {
+        "question": " A 20-meter power-driven vessel pushing ahead or towing alongside will\n display _____________.\n\na) two towing lights in a vertical line\nb) a towing light above the sternlight\n\nc) two masthead lights in a vertical line\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000333": {
+        "question": " At night, a power-driven vessel less than 7 meters in length, with a\n maximum speed which does not exceed 7 knots, MUST show when\n underway at least _____________.\na) one white 360 light\nb) a white light on the near approach of another vessel\n\nc) sidelights and a sternlight\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000334": {
+        "question": " At night, a power-driven vessel less than 7 meters in length, with a\n maximum speed which does not exceed 7 knots, may show when\n underway _____________,\na) sidelights combined in a single latern\nb) an all-round flashing yellow light\n\nc) one all-round white light\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000335": {
+        "question": " Which statement is TRUE concerning light signals?\n\na) The time between flashes shall be about five seconds\nb) The light signals are to be used when not using sound signals.\n\nc) The time between successive signals shall be not less than ten seconds.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000337": {
+        "question": "In addition to her running lights, an underway vessel constrained by her\n draft may carry in a vertical line_____________.\n\na) a red light, a white light, and a red light\nb) two red lights\n\nc) three red lights\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000338": {
+        "question": " If you sighted three red lights in a vertical line on another vessel at night,it\n would be a vessel _____________.\n\na) aground\nb) constrained by her draft\n\nc) dredging\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000339": {
+        "question": " A 20-meter power-driven vessel pushing ahead or towing alongside will\n display _____________.\n\na) a single white light forward\nb) two masthead lights in a vertical line\n\nc) two towing lights in a vertical line\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000340": {
+        "question": " A vessel constrained by her draft may display _____________.\n\na) three all-round red lights\nb) two 225 grd red lights\n\nc) three all-round blue lights\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000341": {
+        "question": " Which vessel may NOT exhibit two red lights in a vertical line?\n\na) A vessel constrained by her draft\nb) A trawler fishing in close proximity to other trawlers\n\nc) A vessel aground\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000342": {
+        "question": "Which statement(s) is (are) TRUE concerning light signals?\n\na) The time between flashes shall be about five seconds\nb) The time between successive signals shall be not less than ten seconds\n\nc) The light signal are to be used when not using sound signal\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000343": {
+        "question": "What dayshape is prescribed for a vessel constrained by her draft?\n\na) A black cone, apex upward\nb) A black cone, apex downward\n\nc) A cylinder\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000344": {
+        "question": "You are on a vessel that cannot comply with the spacing requirement for\n masthead lights. What is required in this situation?\n\na) The vessel must carry only the lights that comply with the rules; the others may be omitted.\nb) The vessel`s lights must comply as closely as possible, as determined by her government.\n\nc) The vessel must be altered to permit full compliance with the rules.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000345": {
+        "question": "A partially submerged object towed by a vessel must show during the day\n one _____________.\n\na) diamond shape when the length of the tow is 200 meters or less\nb) diamond shape when the length of the tow exceeds 200 meters in length\n\nc) black ball\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000346": {
+        "question": " Yellow lights are NOT shown by _____________.\n\na) towing vessels pushing ahead\nb) air cushion vessels in a nondisplacement mode\n\nc) purse seiners\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000347": {
+        "question": " How shall a vessel navigate along a narrow channel or fairway ?\n\na) In the centre of the channel or fairway.\nb) As near to the outer limit of the channel or fairway which lies on her starboard side as is safe and practicable.\n\nc) The vessel shall keep as near to the outer limit of the channel or fairway as possible, to provide a proper look-out.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000348": {
+        "question": "How shall a vessel less than 20 m in length or a sailing vessel proceed\n along a narrow fairway ?\n\na) As all the other vessels.\nb) As close to the centre of the fairway as possible.\n\nc) The vessel shall not impede the passage of a vessel which can safely navigate only within a narrow fairway or\n channel.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000349": {
+        "question": "How shall a vessel engaged in fishing conduct in a narrow channel or\n fairway ?\n\na) The vessel shall not impede the passage of any other vessel navigating within a narrow channel or fairway.\nb) They shall fishing only in the centre of the narrow channel not to impede the passage in both directions.\n\nc) As a privileged vessel which must be avoided.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000350": {
+        "question": "What sound signals may a vessel navigating within a channel use, when in\n doubt to the intention of a crossing vessel ?\n\na) One long blast and two short blasts on the whistle.\nb) 5 short and rapid blasts on the whistle.\n\nc) One long warning signal.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000351": {
+        "question": "What safety precautions shall a vessel nearing a bend of a narrow channel\n or fairway take ?\n\na) To sound 5 short blasts.\nb) To sound one short blast and navigate on the right side of the channel.\n\nc) To sound one long blast and navigate with particular alertness and caution.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000352": {
+        "question": "What shall the traffic separation schemes rule apply to ?\n\na) To traffic separation schemes adopted by the organisation.\nb) To traffic separation schemes adopted by the Government of the respective state.\n\nc) To traffic separation schemes adopted by the organisation and the Governments.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000353": {
+        "question": "How shall a vessel join or leave a traffic separation scheme ?\n\na) At right angles to the general direction of the traffic flow.\nb) Normally join or leave traffic lane at the termination of the lane, but, when joining or leaving from either side shall do\n so at as small angle to the general direction of traffic flow as possible.\nc) Through the traffic separation zone but with the approuval of the authorities surveying navigation in the traffic\n separation scheme.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000354": {
+        "question": "How shall a vessel cross the traffic lanes when is obliged to do so ?\n\na) At a small angle to the general direction of traffic flow and at small speed.\nb) At as small an angle to the general direction of traffic flow as practicable at full speed.\n\nc) As nearly as practicable at right angles to the direction of traffic flow.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000031": {
+        "question": "What range shall the towing light be visible at, for vessels of 50 metres or\n more in length ?\n\na) 3 nautical miles.\nb) 2 nautical miles.\n\nc) 3.5 nautical miles\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000032": {
+        "question": "What lights shall a power-driven vessel underway, less than 50 metres in\n length, exhibit ?\n\na) A masthead light, sidelights, a sternlight.\nb) A masthead light and sidelight.\n\nc) Sidelights and a sternlight.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000033": {
+        "question": "What lights shall a power-driven vessel underway, of less than 7 metres in\n length and whose maximum speed does not exceed 7 knots, exhibit ?\n\na) An all-round white light and also, if practicable, sidelights.\nb) Sidelights.\n\nc) A white light which could be exhibited if practicable.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000034": {
+        "question": "What range shall an all-round white light of an inconspicuous, partly\n submerged vessel or object being towed be visible ?\n\na) 3 nautical miles.\nb) 2 nautical miles.\n\nc) 1 nautical mile.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000035": {
+        "question": "What lights shall a power-driven vessel of less than 50 metres in length\n exhibit when towing and the length of the tow is less than 200 metres ?\n\na) 2 masthead lights in a vertical line, sidelights and a towing light.\nb) 2 masthead lights in a vertical line, sidelights, a sternlight and a towing light.\n\nc) Sidelights, a sternlight and a towing light.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000036": {
+        "question": "Where shall the shape of the power-driven vessel underway be placed,\n when the length of the tow exceeds 200 metres ?\n\na) At the fore masthead.\nb) Where it can best be seen.\n\nc) At the after head.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000355": {
+        "question": "Shall inshore traffic zones be used for the inshore traffic ?\n\na) Normally, they shall not be used for through traffic, except for vessels of less than 20m in length and sailing\n vessels.\nb) They shall be used by all vessels owned by the riverside state.\n\nc) They shall be used by vessels restricted in their ability to manoeuvre.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000356": {
+        "question": "Is anchoring permitted in the traffic separation schemes ?\n\na) A vessel shall so far as practicable avoid anchoring in a traffic separation scheme or in areas near its terminations.\nb) Anchoring is permitted, but the vessels shall make all signals provided in the COLREG rules.\n\nc) Anchoring is prohibited in all circumstances.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000357": {
+        "question": "What additional signals shall a pilot vessel give, when engaged on pilotage\n duty, in conditions of restricted visibility in order to be identified ?\n\na) 5 short blasts on the whistle.\nb) 4 short blasts on the whistle.\n\nc) 3 short blasts on the whistle or siren.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000358": {
+        "question": "What signals shall a vessel give to attract attention of another ?\n\na) 5 short blasts on the whistle and 5 rapid strokes on the bell.\nb) Light or sound signals that cannot be mistaken for other signals or to direct the beam of her searchlight in the\n direction of the danger.\nc) One prolonged blast and 4 short blasts on the whistle.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000359": {
+        "question": "What does the term \"distress signals\" mean ?\n\na) The signals given by a vessel in distress.\nb) The signals given by a vessel in distress and in need of assistance.\n\nc) The signals given by a vessel not under command, in distress.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000360": {
+        "question": "How shall the distress signals be used ?\n\na) Distress signals are used separately at short intervals.\nb) Distress signals are used either together or separately at short intervals of about one minute.\n\nc) Distress signals are used only together in order to be noticed quickly.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000361": {
+        "question": "At what intervals is the \"gun or other explosive signal\" fired ?\n\na) At about one minute.\nb) At about 5 minutes.\n\nc) At about 15 minutes.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000362": {
+        "question": "What is the significance of a continuous sounding with any fog-signalling\n apparatus ?\n\na) A warning signal given by a vessel in fog.\nb) A distress signal.\n\nc) A signal given by a vessel not under command or restricted in her ability to manoeuvre.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000363": {
+        "question": "What signal do the shells or rockets throwing red stars indicate, when fired\n at short intervals ?\n\na) A warning signal.\nb) A restriction signal given by a war vessel.\n\nc) A distress signal.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000364": {
+        "question": "Which is the distress signal in radiotelegraphy ?\n\na) 3 dots, 3 dashes, 3 dots ( S.O.S. ) in the Morse Code.\nb) Repeated dots ( E ) in the Morse Code.\n\nc) 3 dashes ( O ) in the Morse Code.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000365": {
+        "question": "Which is the distress signal in radiotelephony ?\n\na) The word DANGER repeated.\nb) The word MAYDAY repeated.\n\nc) The words ATTENTION-DANGER repeted 3 times.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000366": {
+        "question": "Which is the distress signal in the international code of signals ?\n\na) \"N.C.\"\nb) \"P.\"\n\nc) \"O.\"\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000367": {
+        "question": "Which signal may be considered a distress signal ?\n\na) A square flag having above or below it a ball or a similar object.\nb) 3 black balls in a vertical line.\n\nc) A red flag ( B ).\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000368": {
+        "question": "What signal does \"flames on the vessel from a burning tar or oil barrel\"\n indicate ?\n\na) The warning signal of a vessel having the steering gear out of order.\nb) A distress signal.\n\nc) The signal to attract attention that the vessel cannot avoid another vessel.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000369": {
+        "question": "Which signal may be considered as a distress signal ?\n\na) Shells or hand flares showing a red light.\nb) Shells or hand flares showing a green light.\n\nc) Shells or hand flares showing a brillant white light.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000370": {
+        "question": "What signal does \"the smoke signal giving off orange-coloured smoke\"\n indicate ?\n\na) A warning signal for an avoiding manoeuvre.\nb) A distress signal.\n\nc) A signal to attract attention.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000371": {
+        "question": "Which is the distress signal given by arms ?\n\na) Slowly and repeatedly moving the arms, making circles above the head.\nb) Raising both arms vertically, above the head.\n\nc) Slowly and repeatedly raising and lowering arms outstretched to each side.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000001856": {
+        "question": "What additional lights does a vessel constrained by its draught have to\n show?\n\na) Red and white lights in a vertical line.\nb) Red, white, red lights in a vertical line.\n\nc) Three red lights in a vertical line.\nd) Two red lights in a vertical line.",
+        "answer": "c"
+    },
+    "ANR0000001857": {
+        "question": "If another ship does not appear to be taking sufficient action to avoid a\n collision, what should you do according to the Collision Regulations?\n\na) Alter course.\nb) Sound 5 short and rapid blasts on the whistle.\n\nc) Call it up on VHF.\nd) Stand On.",
+        "answer": "b"
+    },
+    "ANR0000001858": {
+        "question": "A fishing vessel is showing a basket and a single cone apex upwards?\n\n In\n which direction do the nets lie?a) Astern.\nb) Ahead.\n\nc) From the basket towards the cone.\nd) From the cone towards the basket.",
+        "answer": "c"
+    },
+    "ANR0000001859": {
+        "question": "You are heading west and observe a north cardinal buoy dead ahead.\n What action do you take?\n\na) Alter course to port.\nb) Alter course to starboard.\n\nc) Wait until you can see a port hand buoy.\nd) Wait until you can see a starboard hand buoy.",
+        "answer": "b"
+    },
+    "ANR0000001861": {
+        "question": "What could a vessel do to highlight a danger to another vessel, especially\n at night ?\n\na) Show a square flag and a black ball in a vertical line one over the other.\nb) Direct a search light in the direction of the danger.\n\nc) Sound three short blasts on the whistle.\nd) Fire a rocket throwing red stars.",
+        "answer": "b"
+    },
+    "ANR0000001862": {
+        "question": "What could be the fog signal of a vessel aground in a channel?\n\na) Four strokes on the bell, sounded in the same manner as 'four bells' to indicate time.\nb) A blast of from three to five seconds on the whistle.\n\nc) Three distinct blasts followed by a rapid ringing of the bell.\nd) A rapid ringing of the bell and three separate and distinct strokes on the bell immediately before and after ringing of",
+        "answer": "d"
+    },
+    "ANR0000001863": {
+        "question": "Which of the following is a vessel \"not under command\"?\n\na) A vessel engaged in underwater operations.\nb) A tug engaged in a towing operation.\n\nc) A sailing vessel becalmed.\nd) A power driven vessel with main engine failure.",
+        "answer": "d"
+    },
+    "ANR0000001864": {
+        "question": "You see a vessel displaying a black cylinder on her starboard yardarm. At\n night, what lights would the same vessel be showing, in addition to those\n for a power-driven vessel underway?\n\na) Two all-round red lights in a vertical line.\nb) Three all-round lights in a vertical line, the upper and lower red and the middle one white.\n\nc) Two all-round lights in a vertical line, the upper one red and the lower one white.\nd) Three all-round red lights in a vertical line.",
+        "answer": "d"
+    },
+    "ANR0000001865": {
+        "question": "Referring to Annex II of the Collision Regulations; additional signals for\n fishing vessels in close proximity. What does the signal \"one white light\n over one red light\" mean?\n\na) I am shooting nets.\nb) I am hauling nets.\n\nc) My nets are fast on an obstruction.\nd) I am engaged in pair trawling.",
+        "answer": "b"
+    },
+    "ANR0000001866": {
+        "question": "What is a power-driven vessel?\n\na) Any vessel which is self-propelled.\nb) Any vessel propelled by an internal combustion engine.\n\nc) Any vessel propelled by machinery.\nd) Any vessel other than a vessel propelled by sails.",
+        "answer": "c"
+    },
+    "ANR0000001867": {
+        "question": "If a vessel is being towed alongside on the starboard side of the towing\n vessel, what lights should it show?\n\na) Starboard sidelight and sternlight.\nb) Sidelights and sternlight.\n\nc) Sidelights only.\nd) Starboard sidelight only.",
+        "answer": "b"
+    },
+    "ANR0000001868": {
+        "question": "What is the duration of a \"'short blast\" on the whistle?\n\na) One second.\nb) Two seconds.\n\nc) Three seconds.\nd) Four seconds.",
+        "answer": "a"
+    },
+    "ANR0000001869": {
+        "question": "In the Collision Regulations, the Government of any State can make\n provision for special rules allowing the use of additional whistle signals\n between which vessels?\n\na) Warships and vessels sailing under convoy.\nb) Tugs and their tows.\n\nc) Pilot vessels and vessels requiring pilots.\nd) All of the other options.",
+        "answer": "a"
+    },
+    "ANR0000001870": {
+        "question": "Which of the following vessels may use inshore traffic zones in all\n circumstances?\n\na) Vessels not under command and vessels restricted in their ability to manoeuvre.\nb) Vessels less than 20 metres in length and sailing vessels.\n\nc) Vessels towing which are severely restricted in their ability to manoeuvre.\nd) All of the other options.",
+        "answer": "b"
+    },
+    "ANR0000001871": {
+        "question": "When should a sailing vessel keep out of the way of a power driven\n vessel?\n\na) When both vessels are crossing.\nb) When the power driven vessel is overtaking..\n\nc) When the sailing vessel is overtaking.\nd) When both vessels are meeting end on.",
+        "answer": "c"
+    },
+    "ANR0000001872": {
+        "question": "At night, in addition to her sidelights, what else must a sailing vessel show?\n\na) A white light.\nb) Red over green masthead lights.\n\nc) A stern light.\nd) A white light in the direction of an approaching vessel.",
+        "answer": "c"
+    },
+    "ANR0000001873": {
+        "question": "You sight a vessel bearing 3 points abaft the starboard beam. Sometime\n later, it is bearing 3 points forward of the starboard beam. Which of the\n following circumstances apply?\n\na) Two vessels with the same speed and course.\nb) Two power-driven vessels meeting.\n\nc) A vessel overtaking situation.\nd) Two power-driven vessels crossing with no risk of collision.",
+        "answer": "c"
+    },
+    "ANR0000001874": {
+        "question": "What is the duration of a prolonged blast?\n\na) 6-8 seconds\nb) 4-6 seconds\n\nc) more than 8 seconds\nd) 2-4 seconds",
+        "answer": "b"
+    },
+    "ANR0000001875": {
+        "question": "When proceeding in a narrow channel, you hear a vessel astern sound two\n prolonged blasts followed by two short blasts. What does this signal\n indicate?\n\na) The other vessel intends to overtake you on your starboard side.\nb) The other vessel intends to overtake you on your port side.\n\nc) The other vessel intends to follow you to port.\nd) The other vessel wishes to attract your attention.",
+        "answer": "b"
+    },
+    "ANR0000001876": {
+        "question": "When is a vessel \" UNDERWAY \"?\n\na) When she is not at anchor or made fast to the shore\nb) When she is moving through the water\n\nc) When the main engine is running\nd) When she is aground",
+        "answer": "a"
+    },
+    "ANR0000001877": {
+        "question": "At night you notice, in addition to other lights, two yellow lights in a vertical\n line which flash alternately every second. What does this indicate?\n\na) A fishing vessel hampered by her purse seine gear..\nb) A dredger showing the side on which a vessel can pass.\n\nc) A towing vessel's light seen from abaft the beam.\nd) An air cushion vehicle operating in the non-displacement mode.",
+        "answer": "a"
+    },
+    "ANR0000001878": {
+        "question": "You have another vessel on your port bow in clear visibility, but with a\n moderate sea and swell. Which of the following would normally give\n greatest accuracy in determining if risk of collision exists?\n\na) Observation of the radar bearing and range\nb) Observation of the compass bearing over a period of time\n\nc) Observation of the radar range\nd) Observation of the radar bearing",
+        "answer": "b"
+    },
+    "ANR0000001879": {
+        "question": "When should a vessel not under command display the sternlight?\n\na) When another vessel is overtaking\nb) When making way through the water\n\nc) When unable to get out of the way of other vessels\nd) When underway",
+        "answer": "b"
+    },
+    "ANR0000001880": {
+        "question": "At sea during the day, you see a vessel displaying two black cones with\n their points together. What does this indicate?\n\na) A vessel engaged in fishing\nb) A vessel engaged in a towing operation which is unable to deviate from her course\n\nc) A vessel of less than 50 metres in length at anchor\nd) A vessel aground",
+        "answer": "a"
+    },
+    "ANR0000001881": {
+        "question": "When two whistles are fitted on a vessel and are placed more than 100m\n apart, what is the usual arrangement for giving manoeuvring and warning\n signals ?\n\na) The forward whistle shall sound before the after whistle\nb) The after whistle shall sound before the forward whistle\n\nc) They are sounded simultaneously\nd) Only one of the whistles is sounded",
+        "answer": "d"
+    },
+    "ANR0000001882": {
+        "question": "Your power-driven vessel is fitted with radar and is underway in poor\n visibility. At what speed should you proceed?\n\na) Sea speed if there are no targets showing on the radar\nb) Sea speed only if in open waters\n\nc) Sea speed with the engines on standby, keeping a close radar watch\nd) A safe speed",
+        "answer": "d"
+    },
+    "ANR0000001883": {
+        "question": "To which traffic separation schemes does Rule 10 apply?\n\na) Those adopted by the International Maritime Organization\nb) Those set up by local authorities\n\nc) Those defined on navigational charts\nd) All of the other options",
+        "answer": "a"
+    },
+    "ANR0000001884": {
+        "question": "How should a vessel cross a traffic separation lane?\n\na) At a speed and heading that will cause the least encounters with vessels within the lane\nb) On a heading that will cause her to spend the LEAST TIME in the lane\n\nc) On a HEADING as nearly as practical at right angles to the direction of traffic flow\nd) On heading so that her TRACK will be as nearly as practicable at right angles to the direction of traffic flow",
+        "answer": "c"
+    },
+    "ANR0000001893": {
+        "question": "Which of the following is NOT a vessel restricted in her ability to\n manoeuvre?\n\na) A vessel servicing a navigation buoy.\nb) A tanker underway refueling a warship.\n\nc) A minesweeper engaged in minesweeping operations.\nd) A loaded VLCC navigating in a fairway.",
+        "answer": "d"
+    },
+    "ANR0000001894": {
+        "question": "A power driven vessel observes the stern light of another power-driven\n vessel on a steady bearing and reducing range on the port bow. Which\n vessel must give way?\n\na) The observing vessel\nb) The observed vessel\n\nc) No risk of collision exists\nd) Both masters decide",
+        "answer": "a"
+    },
+    "ANR0000001895": {
+        "question": "Looking straight ahead at night you observe the masthead lights and both\n side lights of another vessel. What action should be taken?\n\na) Each ship shall alter course to port.\nb) One ship shall alter course to starboard and the other to port.\n\nc) Each ship shall alter course to starboard.\nd) You stand on as the other ship will alter course.",
+        "answer": "c"
+    },
+    "ANR0000000037": {
+        "question": "What shape shall a power-driven vessel being towed exhibit, when the\n lenght of the tow exceeds 200 metres ?\n\na) A cone with the apex downward.\nb) A diamond.\n\nc) Two black cones with apexes together.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000038": {
+        "question": "What lights shall an inconspicuous, partly submerged vessel or object\n being towed exhibit, when her length exceeds 100 metres and her breadth\n exceeds 25 metres ?\n\na) 5 all-round white lights at the forward end, after end, at or near the extremities of her breadth and a light between\n the forward end and the after end so that the distance between the lights shall not exceed 100 metres.\nb) 3 all-round white lights.\n\nc) 4 all-round white lights at the forward end, after end and at the extremities of her breadth.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000039": {
+        "question": "What shall a vessel or object being towed do when, from any sufficient\n cause it is impracticable to exhibit the lights prescribed by the rules ?\n\na) All possible measures shall be taken to light the vessel or object being towed or at least to indicate the presence of\n such vessel or object.\nb) It shall exhibit no light.\n\nc) It shall exhibit only the sidelights.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000040": {
+        "question": "What shall a vessel engaged in towing which is not normally engaged in\n towing operations do, when, from any sufficient cause it is impracticable to\n exhibit the lights prescribed by the rules, when engaged in towing another\na) She shall navigate with caution the radiotelephone working in order to inform the vessels in the area.\nb) She shall take all possible measures to indicate the nature of the relationship between the towing vessel and the\n vessel being towed, in particular by illuminating the towline.\nc) She shall exhibit the lights for a disabled vessel and will take the towline.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000041": {
+        "question": "\n\nANR0000000041 What lights shall a sailing vessel underway exhibit ?\n\na) Sidelights.\nb) Masthead lights and sidelights.\n\nc) Sidelights and a sternlight.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000042": {
+        "question": "What lights shall a vessel under oars exhibit ?\n\na) A blue light to be shown at any time.\nb) A red light.\n\nc) If she does not exhibit the lights of a sailing vessel, she shall be ready to show an electric torch or lighted lantern\n showing a white light.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000001901": {
+        "question": "On nearing a bend in a narrow channel and the way ahead is obscured,\n you hear a prolonged blast. What should be your response?\n\na) One short blast.\nb) Two short blasts.\n\nc) One prolonged blast.\nd) Two prolonged blasts.",
+        "answer": "c"
+    },
+    "ANR0000001902": {
+        "question": "Is anchoring permitted in a narrow channel?\n\na) No\nb) It should be avoided if at all possible\n\nc) Yes, but only near the outer limit of the fairway to starboard.\nd) Yes, but only for a vessel which can safely navigate within such a channel.",
+        "answer": "b"
+    },
+    "ANR0000001903": {
+        "question": "When proceeding along a narrow channel a vessel should......\n\na) keep to the outer limit which lies on her port side.\nb) keep to the outer limit which lies on her starboard side.\n\nc) keep to the side which lies on her port side.\nd) keep to the side which lies on her starboard side.",
+        "answer": "b"
+    },
+    "ANR0000001904": {
+        "question": " For which types of vessel should a fishing vessel not impede the passage\n in a narrow channel or fairway?\n\na) Vessels greater than 20m. in length.\nb) A vessel which can safely navigate only within such a channel.\n\nc) Sailing vessels and vessels greater than 20m. in length.\nd) Any other vessels navigating within the narrow channel or fairway.",
+        "answer": "d"
+    },
+    "ANR0000001905": {
+        "question": "A vessel which can only safely navigate within a narrow channel or fairway\n shall not be impeded by......\n\na) sailing vessels, fishing vessels, or vessels of less than 20 metres.\nb) crossing vessels.\n\nc) sailing vessels or vessels of less than 20 metres.\nd) sailing vessels, fishing vessels, vessels less than 20m. or crossing vessels.",
+        "answer": "d"
+    },
+    "ANR0000001906": {
+        "question": " What signal shall a vessel sound when nearing a bend or an area of\n narrow channels or fairway where other vessels may be obscured by an\n intervening obstruction?\n\na) Two short blasts.\nb) One prolonged blast.\n\nc) At least five short and rapid blasts.\nd) Two prolonged blasts followed by two short blasts.",
+        "answer": "b"
+    },
+    "ANR0000001912": {
+        "question": "A vessel shall, so far as is practicable, avoid crossing traffic separation\n lanes. But if obliged to do so shall cross the general direction of traffic flow\n .....\na) at as small an angle as practicable.\nb) avoiding other traffic using the scheme.\n\nc) on a heading as nearly as practicable at right angles.\nd) making good a course as nearly as practicable at right angles.",
+        "answer": "c"
+    },
+    "ANR0000001913": {
+        "question": " Which of the following shall not impede the passage of any vessel following\n a traffic lane in a traffic separation scheme?\n\na) A sailing vessel, fishing vessel or a vessel of less than 20 metres.\nb) A vessel engaged in fishing.\n\nc) A crossing vessel.\nd) A sailing vessel or a vessel of less than 20 metres.",
+        "answer": "b"
+    },
+    "ANR0000001917": {
+        "question": "Inshore traffic zones shall not be used by which of the following vessels?\n\na) One that can safely use the adjacent lane within the T.S.S.\nb) One that can safely use the appropriate lane within the T.S.S.\n\nc) One en route to or from a place situated within the inshore traffic zone.\nd) Sailing vessels and vessels of less than 20m. in length.",
+        "answer": "b"
+    },
+    "ANR0000001918": {
+        "question": "Vessels as far as possible should avoid anchoring......\n\na) in a traffic separation scheme or in areas near it's terminations.\nb) in a traffic separation scheme.\n\nc) in a traffic separation zone.\nd) near the terminations of a traffic separation scheme.",
+        "answer": "a"
+    },
+    "ANR0000001919": {
+        "question": "A vessel joining the general direction of traffic flow in a traffic separation\n scheme from either side shall do so......\n\na) at as small an angle as practicable.\nb) avoiding traffic using the scheme.\n\nc) making a course as nearly as practicable at right angles.\nd) on a heading as nearly as practicable at right angles.",
+        "answer": "a"
+    },
+    "ANR0000001920": {
+        "question": " A vessel not using the traffic separation scheme shall......\n\na) only use it to avoid immediate danger.\nb) if practicable only use the inshore traffic zone.\n\nc) not impede the passage of any vessel following a traffic flow.\nd) avoid it by as wide a margin as possible.",
+        "answer": "d"
+    },
+    "ANR0000001921": {
+        "question": " You observe this vessel at a range of 9 miles. What action would you take?\n\na) Make a substantial reduction of speed.\nb) Stand on but continue to monitor.\n\nc) Take a series of compass bearings and radar plot.\nd) Stand on with caution.",
+        "answer": "b"
+    },
+    "ANR0000001935": {
+        "question": "A vessel's sidelights should be positioned above the hull, but according to\n the Collision Regulations what is the maximum height they can be placed?\n\na) Half the height of the forward masthead light\nb) Three-quarters the height of the forward masthead light\n\nc) Any height below the forward masthead light\nd) One quarter the height of the forward masthead light",
+        "answer": "b"
+    },
+    "ANR0000001937": {
+        "question": "When a vessel of length 20m or more is required by the rules to carry two\n or three lights in a vertical line, what spacing is required between the\n lights?\n\na) At least 1.5 metres.\nb) Not less than 4.5 metres.\n\nc) Not less than 2 metres.\nd) Not less than 4 metres.",
+        "answer": "c"
+    },
+    "ANR0000001938": {
+        "question": "For a power driven vessel of 110 metres in length and 20metres beam,\n what is the maximum height above the hull that the forward masthead light\n can be carried?\n\na) 5 metres\nb) 6 metres\n\nc) 12 metres\nd) 9 metres",
+        "answer": "c"
+    },
+    "ANR0000001939": {
+        "question": "If a vessel of length 20metres or more is required by the rules to carry two\n or three lights in a vertical line, at what height above the hull (except where\n a towing light is required) must the lowest of these be placed?\n\na) Not less than 4 metres\nb) So it can be seen at a distance of 1000m\n\nc) Not less than 4.5 metres\nd) At least 1.5 metres",
+        "answer": "a"
+    },
+    "ANR0000001941": {
+        "question": "If you hear a fog signal forward of the beam, Rule 19 states that you\n must......\n\na) make a substantial course alteration.\nb) reply with your own fog signal.\n\nc) reduce to minimum steerage way.\nd) attempt to make radio contact.",
+        "answer": "c"
+    },
+    "ANR0000001942": {
+        "question": "When taking action to avoid collision under Rule 8, you should avoid..... Principles of Radar\na) any reduction in speed.\nb) a succession of small alterations of speed or course.\n\nc) stopping or reversing engines.\nd) making an alteration of course or speed too early.",
+        "answer": "b"
+    },
+    "ANR0000001943": {
+        "question": " When two power driven vessels are meeting on reciprocal courses ......\n\na) each shall alter course to starboard.\nb) each shall alter course to port.\n\nc) one shall alter course to starboard.\nd) one shall alter course to port and the other to starboard.",
+        "answer": "a"
+    },
+    "ANR0000001944": {
+        "question": " When two power-driven vessels, in sight of each other, are crossing so as\n to involve risk of collision, avoiding action must be taken by ......\n\na) both vessels altering course to starboard.\nb) the vessel which has the other on her own starboard side.\n\nc) the vessel which has the other on her own port side.\nd) both vessels altering course to port.",
+        "answer": "b"
+    },
+    "ANR0000001945": {
+        "question": " For a power driven vessel less than 30 metres in length and 5 metres\n beam, at what height above the hull should the mastlight be carried?\n\na) Not less than 6 metres\nb) Not less than 12 metres\n\nc) Not less than 20 metres\nd) Not less than 9 metres",
+        "answer": "a"
+    },
+    "ANR0000001946": {
+        "question": "A vessel is at anchor and displaying two anchor lights. What is the\n minimum vertical distance between the forward anchor light and the after\n anchor light?\n\na) At least 1.5 metres.\nb) Not less than 4.5 metres.\n\nc) Not less than 4 metres.\nd) Not less than 2 metres.",
+        "answer": "b"
+    },
+    "ANR0000001947": {
+        "question": "At what minimum height above the hull should the mastlight on a power\n driven vessel of length 60 metres and beam 9 m be carried?\n\na) 20 metres.\nb) 6 metres.\n\nc) 5 metres.\nd) 9 metres.",
+        "answer": "d"
+    },
+    "ANR0000001948": {
+        "question": "A power driven vessel engaged in towing is displaying the required lights\n on her aftermast. How much higher must the lowest after masthead light be\n above the forward masthead light?\n\na) Not less than 4 metres.\nb) Not less than 4.5 metres.\n\nc) Not less than 2 metres.\nd) Not less than 1.5 metres.",
+        "answer": "b"
+    },
+    "ANR0000001949": {
+        "question": "What is the minimum vertical separation of the mastlights on power driven\n vessels such that, in all normal conditions of trim, the afterlight will be seen\n over and separate from the forward light?\n\na) So it can be seen at 1000 metres from the stem at sea level.\nb) 6 metres.\n\nc) 5 metres.\nd) 9 metres.",
+        "answer": "a"
+    },
+    "ANR0000001950": {
+        "question": "At what height above the hull should the forward anchor light be placed on\n a vessel of 50 metres or more in length?\n\na) 20 metres.\nb) 5 metres.\n\nc) 6 metres.\nd) So it can be seen at 1000 metres from the stern at sea level.",
+        "answer": "c"
+    },
+    "ANR0000000043": {
+        "question": "What lights shall a vessel engaged in trawling exhibit, when making way\n through the water ?\n\na) Sidelights, a sternlight and an all-round green light at the masthead.\nb) Sidelights, 2 lights in a vertical line, the upper being white and the lower green, a masthead light placed abaft of\n and higher than the green light.\nc) Sidelights, a sternlight, 2 lights in a vertical line, the upper being green and the lower white, a masthead placed\n abaft of and higher than the green light.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000044": {
+        "question": "What shapes shall a fishing vessel other than trawling exhibit, when there\n is outlying gear extending more than 150 metres horizontally ?\n\na) A black diamond.\nb) 2 cones with their apexes together.\n\nc) 2 cones with their apexes together and a cone apex upwards in the direction of the gear.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000045": {
+        "question": "What additional lights shall a trawler engaged in fishing exhibit, when\n hauling her nets and fishing in close proximity to other vessels engaged in\n fishing ?\n\na) 2 red lights in a vertical line.\nb) An all-round red light.\n\nc) One white light over one red light in a vertical line.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000046": {
+        "question": "What additional lights shall a trawler engaged in fishing exhibit, when\n fishing in close proximity to other vessel engaged in fishing and when the\n nets have come fast upon an obstruction ?\n\na) 2 red lights in a vertical line.\nb) An all-round red light.\n\nc) A green light over a red light in a vertical line.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000047": {
+        "question": "What additional lights shall a trawler exhibit, when engaged in pair trawling\n in close proximity to other vessel engaged in fishing ?\n\na) An all-round white light at the masthead.\nb) A searchlight directed forward and in the direction of the other vessel of the pair.\n\nc) 2 all-round red lights.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000048": {
+        "question": "What shapes shall a vessel not under command exhibit ?\n\na) 2 balls or similar shapes in a vertical line.\nb) A black diamond.\n\nc) A ball or a similar shape.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000049": {
+        "question": "What lights shall a vessel restricted in her ability to manoeuvre exhibit,\n when at anchor ?\n\na) The red, white, red lights in a vertical line.\nb) The red, white, red lights in a vertical line, an anchor light in the fore part and an anchor light at the stern.\n\nc) The anchor light in the fore part and the anchor light at the stern.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000050": {
+        "question": "What shapes shall a vessel engaged in dredging or underwater operations\n exhibit, when restricted in her ability to manoeuvre ?\n\na) 2 balls in a vertical line indicating the side on which an obstruction exists, 2 diamonds in a vertical line indicating the\n side on which another vessel may pass.\nb) 2 balls in a vertical line indicating the side on which an obstruction exists, 2 diamonds in a vertical line indicating the\n side on which another vessel may pass and the shapes of a vessel restricted in her ability to manoeuvre.\nc) The shapes of a vessel not under command.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000051": {
+        "question": "What shall a vessel engaged in diving operations exhibit, whenever her\n size makes it impracticable to exhibit all lights and shapes prescribed for\n vessels engaged in during operations ?\n\na) 3 all-round lights in a vertical line, the highest and lowest being red and the middle light white.\nb) 3 all-round lights in a vertical line, the highest and lowest being red and the middle light white, a rigid replica of the\n International Code flag \" A \" not less than 1 metre in height, to ensure her all-round visibility.\nc) A rigid replica of the International Code flag \" A \", not less than 1 metre in height.\nd) ----- ----- -----",
+        "answer": "b"
+    },
+    "ANR0000000052": {
+        "question": "What lights shall a vessel engaged in mineclearance operations exhibit ?\n\na) The lights of a vessel not under command.\nb) The lights of a vessel not under command and 3 all-round red lights.\n\nc) The lights prescribed for power-driven vessels underway and 3 all-round green lights.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000000053": {
+        "question": "How shall the green lights of vessels engaged in mineclearance operations\n be exhibited ?\n\na) One of these lights shall be exhibited near the foremast head and one at each end of the fore yard.\nb) In a vertical line.\n\nc) One at the foremast head, the other two at the stern masthead.\nd) ----- ----- -----",
+        "answer": "a"
+    },
+    "ANR0000000054": {
+        "question": "What shape shall a vessel constrained by her draught exhibit ?\n\na) 2 balls in a vertical line.\nb) 2 balls in a vertical line with a diamond between them.\n\nc) A black cylinder.\nd) ----- ----- -----",
+        "answer": "c"
+    },
+    "ANR0000002020": {
+        "question": "What signals must a vessel at anchor display?\n\na) Code flag 'A' by day and a red light at night.\nb) A black ball hoisted at the bow by day and all round white lights at night.\n\nc) A large black square by day and a flashing white light at night.\nd) Code flag 'B' by day and a red light at night.",
+        "answer": "b"
+    },
+    "ANR0000002021": {
+        "question": "What kind of vessel may sound a fog signal consisting of four short blasts?\n\na) A vessel being towed.\nb) A vessel engaged on pilotage duty.\n\nc) A vessel constrained by her draught.\nd) A fishing vessel..",
+        "answer": "b"
+    },
+    "ANR0000002022": {
+        "question": "What is the arc (angle) of visibility of a masthead light?\n\na) 225 degrees\nb) 180 degrees\n\nc) 210 degrees\nd) 270 degrees",
+        "answer": "a"
+    },
+    "ANR0000002023": {
+        "question": "What is the arc (angle) of visibility of a sternlight?\n\na) 150 degrees\nb) 135 degrees\n\nc) 120 degrees\nd) 270 degrees",
+        "answer": "b"
+    }
+}
