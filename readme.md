@@ -90,15 +90,10 @@ Evaluation results for multiple questions are pre-stored in the `Eval_results` f
 
 ---
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this software as per the license terms.
-
----
-
 ### Contact
 
 For further assistance, please reach out via email or open an issue in the repository.
+jong01045@gmail.com
 
 ---
 
