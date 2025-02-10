@@ -1,9 +1,13 @@
 # Self-Reflective Agent
 
-Welcome to the **Self-Reflective Agent** project! This guide will walk you through setting up the environment, configuring API keys, and running the agent for evaluation. Please ensure you meet the prerequisites and follow the steps below carefully.
+Welcome to the **Self-Reflective Agent** project! This guide will walk you through setting up the environment, configuring API keys, and running the agent for evaluation. 
+It was a disseration project for MSc Data Science - University of Bath.
 
-**Also if you need a detailed explanation of the project structure and each component, contact me through the email (Bottom of README file)**
+Please ensure you meet the prerequisites and follow the steps below carefully.
 
+The code to run this agent is Project Coding/**Self_reflective_agent.ipynb**.
+
+**Also if you need a detailed explanation of the project structure and each stage, contact me through the email (Bottom of README file).**
 ---
 
 ## Requirements
