@@ -2,7 +2,7 @@
 
 Welcome to the **Self-Reflective Agent** project! This guide will walk you through setting up the environment, configuring API keys, and running the agent for evaluation. Please ensure you meet the prerequisites and follow the steps below carefully.
 
-Also if you need a detailed explanation of the project structure and each component, contact me through the email (Bottom of README file)
+**Also if you need a detailed explanation of the project structure and each component, contact me through the email (Bottom of README file)**
 
 ---
 
